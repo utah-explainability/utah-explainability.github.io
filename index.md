@@ -12,7 +12,7 @@ seo:
 {: .no_toc .mb-2 }
 {{ site.description }}
 <br>
-MoWe / 4:35PM-05:55PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB); lecture recordings available at [UofUDataScience YT](https://www.youtube.com/@UofUDataScience)
+MoWe / 4:35PM-05:55PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB); in-person only
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -39,14 +39,6 @@ Topics will include: similarity search, clustering, regression/dimensionality re
 
 Upon completion, students should be able to read, understand, and implement ideas from many data mining research papers.
 
-## Materials 
-
-The book for this course will mostly be a nearly-complete book on the [Mathematical Foundation for Data Analysis](https://mathfordata.github.io/) **(M4D)**, version v0.6. However, the lectures will follow more closely [Prof. Jeff M. Phillips'](https://www.cs.utah.edu/~jeffp/) related [Data Mining course notes](https://www.cs.utah.edu/~jeffp/DMBook/DM-AGP.html), and in several cases, these have not made it into the above book (yet?).
-
-We will also often link to two other online resources that cover similar material, either with a more applied or theoretical focus:
-
-* **MMDS(v1.3)**: [Mining Massive Data Sets](http://www.mmds.org/) by Anand Rajaraman, Jure Leskovec, and Jeff Ullman. The digital version of the book is free, but you may wish to purchase a hard copy.
-* **FoDS**: [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book.pdf) by Avrim Blum, John Hopcroft and Ravindran Kannan. This provide some proofs and formalisms not explicitly covered in lecture.
 
 ## Calendar
 
