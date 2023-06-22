@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data Mining
-tagline: Data Mining
-description: CS 6140/5140/4140, Spring 2023
+title: Local Explanations for Deep Learning Models
+tagline: Local Explanations for Deep Learning Models
+description: CS 6966/5966, Fall 2023
 author: Ana Marasović
 baseurl: # # the subpath of your site, e.g. /blog
-url: 'https://utah-data-mining-spring23.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-repository: 'utah-data-mining-spring23/utah-data-mining-spring23.github.io'
+url: 'https://utah-explainability.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+repository: 'utah-explainability/utah-explainability.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "DUTIES.md"]
 
 # Theme settings
@@ -37,8 +37,8 @@ footer_content:
 #    url: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit?usp=sharing"
 #  - name: Google Drive
 #    url: "https://drive.google.com/drive/folders/13i2Sor2M7it72aGlMd87Iejw6fzqsBxI?usp=sharing"
-#  - name: MS Teams
-#    url: "https://teams.microsoft.com/l/team/19%3ait66PgoRabiGRMhXIEr67O1_XTkjExhyqn3rxIf2vI81%40thread.tacv2/conversations?groupId=d69b57e3-80a0-4b92-88fb-a54bd9145bab&tenantId=5217e0e7-539d-4563-b1bf-7c6dcf074f91"
+#  - name: Piazza
+#    url:  
 
 # Collections for website data
 collections:

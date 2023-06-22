@@ -1,18 +1,18 @@
 ---
 layout: home
-title: Data Mining
+title: Local Explanations for Deep Learning Models
 nav_exclude: true
 toc: true
 seo:
   type: Courses
-  name: Data Mining
+  name: Local Explanations for Deep Learning Models
 ---
 
 # {{ site.tagline }}
 {: .no_toc .mb-2 }
 {{ site.description }}
 <br>
-MoWe / 3-4:20PM, [L101 WEB](https://bit.ly/3wBNjzE); streamed at [UofUDataScience YT](https://www.youtube.com/@UofUDataScience)
+MoWe / 4:35PM-05:55PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB); lecture recordings available at [UofUDataScience YT](https://www.youtube.com/@UofUDataScience)
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -20,23 +20,14 @@ MoWe / 3-4:20PM, [L101 WEB](https://bit.ly/3wBNjzE); streamed at [UofUDataScienc
 {{ staffer }}
 {% endfor %}
 
-{% assign lead_ta = site.staffers | where: 'role', 'Lead TA' %}
-{% for staffer in lead_ta %}
-{{ staffer }}
-{% endfor %}
-
-{% assign teaching_assistants = site.staffers | where: 'role', 'TA' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
 
-Through **<span style="color: black;">this website</span>** we will share only the schedule, details of project components, and lecture notes and videos. Everything else---syllabus, announcements, discussion, turning in assignments/project components, communicating grades, policies---will be done through **<span style="color: black;">Canvas</span>**.
+Through **<span style="color: black;">this website</span>** we will share only the schedule and materials. Everything else---syllabus, announcements, discussion, turning in assignments/project components, communicating grades, policies---will be done through **<span style="color: black;">Canvas</span>**.
 
-Please use the Canvas discussion forum as the preferred medium for interacting with the instructor and the teaching assistants rather than emailing/messaging directly. Take advantage of the instructor and TA office hours. We will work hard to be accessible to students. Don’t be shy if you don’t understand something: come to office hours, post in the forum, send emails, or speak up in class!
+Please use the Canvas discussion forum as the preferred medium for interacting with the instructor and the teaching assistants rather than emailing/messaging directly. Take advantage of the instructor hours. We will work hard to be accessible to students. Don't be shy if you don’t understand something: come to office hours, post in the forum, or speak up in class!
 
 ## Description
 
@@ -97,8 +88,3 @@ The calendar and readings are **tentative** and **subject to change**.
   {% endfor %}
   </tbody>
 </table>
-
-
-## Acknowledgements
-
-The content of this webpage is almost entirely copied from a [previous instance of this course](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) that was designed and taught by [Prof. Jeff M. Phillips](https://www.cs.utah.edu/~jeffp/). 
