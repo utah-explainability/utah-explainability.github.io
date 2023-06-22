@@ -1,0 +1,105 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Data Mining
+tagline: Data Mining
+description: CS 6140/5140/4140, Spring 2023
+author: Ana Marasović
+baseurl: # # the subpath of your site, e.g. /blog
+url: 'https://utah-data-mining-spring23.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+repository: 'utah-data-mining-spring23/utah-data-mining-spring23.github.io'
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "DUTIES.md"]
+
+# Theme settings
+remote_theme: pmarsceill/just-the-docs@v0.3.3
+# theme: minima
+color_scheme: red
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links:
+footer_content:
+
+#quick_links:
+#  - name: Reading List
+#    url: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit?usp=sharing"
+#  - name: Google Drive
+#    url: "https://drive.google.com/drive/folders/13i2Sor2M7it72aGlMd87Iejw6fzqsBxI?usp=sharing"
+#  - name: MS Teams
+#    url: "https://teams.microsoft.com/l/team/19%3ait66PgoRabiGRMhXIEr67O1_XTkjExhyqn3rxIf2vI81%40thread.tacv2/conversations?groupId=d69b57e3-80a0-4b92-88fb-a54bd9145bab&tenantId=5217e0e7-539d-4563-b1bf-7c6dcf074f91"
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+  assignments:
+    permalink: "/:collection/:path/"
+    output: true
+
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+  - scope:
+      path: ''
+      type: assignments
+    values:
+      layout: default
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "docs" collection
+    assignments:
+      # Give the collection a name
+      name: Assignments
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+plugins:
+  - jekyll-seo-tag

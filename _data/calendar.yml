@@ -1,0 +1,347 @@
+- week: 1
+  days:
+    - date: 1/9
+      format: Lecture (Ana)
+      theme: 
+      topics: Class Overview
+      recording: https://www.youtube.com/live/Z6Xwd3VlrWY?feature=share&t=48 
+      slides: https://drive.google.com/file/d/1fhdcGRdxlg0zmcM9fklCMSVPWStUCdfz/view?usp=share_link
+    - date: 1/11
+      format: Lecture (Ana)
+      theme: 
+      topics: Statistics Principles
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L2-StatisticalPrinciples.pdf
+      recording: "https://youtu.be/ul4QxYvMrdo"
+      slides: "https://drive.google.com/file/d/11DVP39BCgAvTMmxcA7Nd5ykmGcidMIeR/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 2.2-2.3</a>; <a href="http://www.mmds.org/">MMDS 1.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 12.4</a>
+- week: 2
+  days:
+    - date: 1/16
+      format: Break
+      theme:  
+      topics: <b><span style="color:green">Martin Luther King Jr. Day holiday</span></b> 
+      notes: 
+      recording:
+      slides:
+      readings: ""
+      due:     
+    - date: 1/18
+      format: Lecture (Ana)
+      theme: <b>Similarity</b>
+      topics: Jaccard + k-Grams
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L3-Jaccard+nGram.pdf
+      recording: "https://youtu.be/Um41Ew6dN80" 
+      slides: "https://drive.google.com/file/d/1wgi9s0NbGqMNf835SWqmyDKvQbPmW0IP/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 4.3-4.4</a>; <a href="http://www.mmds.org/">MMDS 3.1-3.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.3</a>
+      due: <span style="color:orange">HW Statistical Principles due</span>
+
+- week: 3
+  days:
+    - date: 1/23
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Min Hashing
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L4-Minhash.pdf
+      recording: "https://youtu.be/bRXE9SG0ai0" 
+      slides: "https://drive.google.com/file/d/11cL6SwOnPU9L0Q0-69WHqZoMQxx_2BTv/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 4.6.6</a>; <a href="http://www.mmds.org/">MMDS 3.3</a>
+      due:
+    - date: 1/25
+      format: Lecture (Ana)
+      theme: cont.
+      topics: LSH
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L5-LSH.pdf
+      recording: "https://youtu.be/S3pB0PA7R5I" 
+      slides: "https://drive.google.com/file/d/1wWdT3x1VDzIedfULTAzHjPrdVsNEn9GJ/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 4.6</a>; <a href="http://www.mmds.org/">MMDS 3.4</a>
+      due: <span style="color:purple">Project proposal due</span>
+
+- week: 4
+  days:
+    - date: 1/30  
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Distances
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L6-Distances.pdf
+      recording: "https://www.youtube.com/live/a55NFU6b9-E?feature=share" 
+      slides: "https://drive.google.com/file/d/1A4JuWT0Rn6CBpg5009V_8faErz4Sm0An/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 4-4.3</a>; <a href="http://www.mmds.org/">MMDS 3.5 + 7.1</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 8.1</a>
+    - date: 2/1    
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Embeddings
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L7-highD+ANN.pdf
+      recording: "https://www.youtube.com/live/41QAjd8irac?feature=share" 
+      slides: "https://drive.google.com/file/d/1w8pRyE5dtpX78hcYUJztHntCFNjruUHL/view?usp=sharing"
+      readings: <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">[Speech & Language Processing Sec 6]</a>; <a href="https://arxiv.org/abs/1607.06520">[Bolukbasi et al., 2016]</a>; see Piazza for more
+      due: <span style="color:orange">HW Document Hash due</span>
+
+- week: 5
+  days:
+    - date: 2/6
+      format: Lecture (Ana)
+      theme: <b>Clustering</b>
+      topics: Hierarchical
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L8-hierarch.pdf
+      recording: "https://www.youtube.com/live/UICI8JK3kJQ?feature=share" 
+      slides: "https://drive.google.com/file/d/19S1Q_CHNlwzEY3H0nisduAmseTdXqMfJ/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 8.5 + 8.2</a>; <a href="http://www.mmds.org/">MMDS 7.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.7</a>
+      due: 
+    - date: 2/8
+      format: Lecture (Ana)
+      theme: cont.
+      topics: K-Means
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L9-kmeans.pdf
+      recording: "https://www.youtube.com/live/UTyOiYX5PTw?feature=share&t=27" 
+      slides: "https://drive.google.com/file/d/1n3nVmhdo-yR2SjUQkCcL2j6N7Zj8uQg_/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 8-8.3</a>; <a href="http://www.mmds.org/">MMDS 7.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.2-7.3</a>
+      due: <span style="color:orange">HW LSH due</span>
+- week: 6
+  days:
+    - date: 2/13
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Spectral
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L10-spectral.pdf
+      recording: "https://www.youtube.com/live/tGJtq3stb64?feature=share" 
+      slides: "https://drive.google.com/file/d/1zEMtMdnJl8fM5ix0-fBr57yQIwrLnMWi/view?usp=share_link"
+      readings: <a href="https://arxiv.org/abs/0711.0189">[von Luxburg, 2007]</a>; <a href="https://mathfordata.github.io/">M4D 10.3</a>; <a href="http://www.mmds.org/">MMDS 10.4</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.5</a>
+      due: 
+
+    - date: 2/15
+      format: Lecture (Ana)
+      theme: <b>Streaming</b>
+      topics: Model and Misra-Greis
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L11-Heavy-Hitters.pdf
+      recording: "https://www.youtube.com/live/tLxaMarcMHc?feature=share" 
+      slides: "https://drive.google.com/file/d/13wU-jg4bSofV7q-GngyA-1xq1fPlwfsY/view?usp=share_link"
+      readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://mathfordata.github.io/">M4D 11.1-11.2.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a> 
+      due: <span style="color:purple">Project data collection report due</span>
+
+- week: 7
+  days:
+    - date: 2/20
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Presidents Day holiday</span></b>  
+      notes: 
+      recording: 
+      slides: 
+      readings: ""
+      due: 
+    - date: 2/22
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Count-Min Sketch
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L12-Count-Min+Apriori.pdf
+      recording: "https://www.youtube.com/live/AUCibAgLmHg?feature=share" 
+      slides: "https://drive.google.com/file/d/1lYEixkZRFjzoTtX_xvKA9U5xspjAflzB/view?usp=sharing"
+      readings: <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="https://web.stanford.edu/class/archive/cs/cs166/cs166.1206/lectures/10/Slides10.pdf">Stanford CS166 L10</a>
+      due: <span style="color:orange">HW Clustering due</span>
+
+- week: 8
+  days:
+    - date: 2/27
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Count Sketch
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L12-Count-Min+Apriori.pdf
+      recording: "https://www.youtube.com/live/AYB3MGjaIeI?feature=share&t=27" 
+      slides: "https://drive.google.com/file/d/1by2hDPuX1T6o9TC0LvnLlcM57Us2tA5o/view?usp=sharing"
+      readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://aclanthology.org/D12-1100/">[Goyal et al., 2012]</a>; <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="https://web.stanford.edu/class/archive/cs/cs166/cs166.1206/lectures/11/Slides11.pdf">Stanford CS166 L11</a>; see Piazza for more
+      due:
+    - date: 3/1
+      format: Lecture (Ana)
+      theme: 
+      topics: <b><span style="color:black">MIDTERM EXAM</span></b>
+      notes:  
+      recording: 
+      slides: 
+      readings: ""
+      due: <span style="color:orange">HW Frequent due</span>
+
+- week: 9
+  days:
+    - date: 3/6
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Spring break</span></b>
+      notes: 
+      recording: 
+      slides: 
+      readings: ""
+      due:
+    - date: 3/8
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Spring break</span></b>
+      notes: 
+      recording:  
+      slides: 
+      readings: ""
+      due: 
+
+- week: 10
+  days:
+    - date: 3/13
+      format: Lecture (Ana)
+      theme: <b>Regression</b>
+      topics: Linear Regression
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L13-Regression.pdf
+      recording: "https://www.youtube.com/live/4FtLYQXqWfY?feature=share&t=73" 
+      slides: "https://drive.google.com/file/d/1E_fQ1ZHgq1d4LM8IZiMJoNheFLaPwhwB/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 5-5.2</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.2 + 3.4</a>
+      due:
+    - date: 3/15
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Nonlinear Regression; Regularizarion 
+      notes: "https://drive.google.com/file/d/1cAjor55eMUdVxOCKhPtvxZGCAPbxnKvK/view?usp=share_link"
+      recording: "https://www.youtube.com/live/0bUKL1emx2E?feature=share&t=35" 
+      slides: "https://drive.google.com/file/d/1-lK5PcLLM2wls6rtepA5oT0LE1X05nND/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 5.3-5.5</a>; Extra <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp and Gilbert, 2007]</a>
+      due: 
+
+- week: 11
+  days:
+    - date: 3/20
+      format: Lecture (Ana)
+      theme: <b>Dim Reduce</b>
+      topics: SVD + PCA
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L14-SVD.pdf
+      recording: "https://www.youtube.com/live/S0UjnZlHDqA?feature=share&t=38" 
+      slides: "https://drive.google.com/file/d/1s5dd7vkuf4QczwhD7eaFer6NVwXHXH7X/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 7-7.3 + 7.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 3-3.6 + 3.8-3.9.2</a>
+      due: <span style="color:purple">Project intermediate report due</span>
+    - date: 3/22
+      format: Lecture (Ana)
+      theme: cont.
+      topics: <span style="color:purple">Projects peer feedback</span>; Random Projection
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L17-Rand-Projections.pdf
+      recording: "https://www.youtube.com/live/WyDHUiJs4oU?feature=share" 
+      slides: "https://drive.google.com/file/d/15Mz0b1IVwa-plYR_fgAUfj9LfYxZybSd/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 7.10</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.7</a>
+      due: <span style="color:purple">Read 2 peer intermediate reports due</span>
+
+- week: 12
+  days:
+    - date: 3/27
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Frequent Directions
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L16-MatrixSketching.pdf
+      recording: "https://www.youtube.com/live/ckxLrHGT0ZM?feature=share&t=20" 
+      slides: "https://drive.google.com/file/d/1QFkDRJrGsermIGggG25ETnmpKnLCj0S5/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 11.3</a>; <a href="http://arxiv.org/abs/1501.01711">[Ghashami et al., 2015]</a>
+      due: 
+    - date: 3/29
+      format: Lecture (Ana)
+      theme: cont.
+      topics: MDS, LDA, Metric Learning
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L15-MetricLearning.pdf
+      recording: "https://www.youtube.com/live/W5fRcbcOGms?feature=share" 
+      slides: "https://drive.google.com/file/d/1NXJ-STfvYj3e9us_rtACV1zyz-8uFTdG/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 7.6-7.8</a>; <a href="http://sebastianraschka.com/Articles/2014_python_lda.html">LDA</a>
+      due: <span style="color:orange">HW Regression due</span>
+
+- week: 13
+  days:
+    - date: 4/3
+      format: Lecture (Ana)
+      theme: <b>Noise</b>
+      topics: Privacy
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L21-Privacy.pdf
+      recording: 
+      slides:
+      readings: <a href="https://www.youtube.com/live/-gNP5vVuj3Y?feature=share&t=510">[prev year lecture]</a>; <a href="https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md">[blog]</a>
+      due: 
+    - date: 4/5
+      format: Lecture (Ana)
+      theme:  cont.
+      topics: Metric learning (cont); Noise in Data
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L20-Noise.pdf
+      recording: "https://www.youtube.com/live/5tBMBy6Cwao?feature=share&t=42" 
+      slides: "https://drive.google.com/file/d/12Jc_a31asGEiwexqDM7IZb_x8g-8lMGq/view?usp=share_link"
+      readings: <a href="https://mathfordata.github.io/">M4D 8.6</a>; <a href="http://www.dbs.ifi.lmu.de/Publikationen/Papers/tutorial_slides.pdf">[tutorial]</a>
+      due: <span style="color:orange">HW Dim Reduce due</span>
+
+
+- week: 14
+  days:
+    - date: 4/10  
+      format: Lecture (Ana)
+      theme:  <b>Graphs</b>
+      topics: Matrix completion; PageRank
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L23-PageRank.pdf
+      recording: "https://www.youtube.com/live/lyLjjyUeTTA?feature=share&t=25" 
+      slides: "https://drive.google.com/file/d/1tIbuItbblAQsr-rL4lQQGUgSj7oyQjKK/view?usp=sharing"
+      readings: <a href="https://mathfordata.github.io/">M4D 10.2</a>; <a href="http://www.mmds.org/">MMDS 5.1 + 5.4</a>
+      due: 
+    - date: 4/12
+      format: Lecture (Ana)
+      theme: cont.
+      topics: PageRank 
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L23-PageRank.pdf
+      recording: "https://www.youtube.com/live/JkeUoHFgxzE?feature=share&t=35" 
+      slides: "https://drive.google.com/file/d/1GphiC6zzn4lst6ssYmAjQT-8BIbrH14Z/view?usp=share_link"
+      readings: <a href="http://www.mmds.org/">MMDS 5</a>
+      due: <span style="color:purple">Project final report due</span>
+
+- week: 15
+  days:
+    - date: 4/17
+      format: Lecture (Ana)
+      theme:  cont.
+      topics: MapReduce 
+      notes: https://users.cs.utah.edu/~jeffp/DMBook/L24-MapReduce.pdf
+      recording:  "https://www.youtube.com/live/f4OcXbcHRag?feature=share&t=23"
+      slides: "https://drive.google.com/file/d/1AvLKbyYq4E_z9cnhDQpa4IP_44-WAe2E/view?usp=share_link"
+      readings: <a href="http://www.mmds.org/">MMDS 2</a>
+      due: <span style="color:purple">Project poster outline due</span>
+    - date: 4/19
+      format: Lecture (Ana)
+      theme:  <b>Wrap-up</b>
+      topics: Looking back & Semester course feedback
+      notes: 
+      recording: "https://www.youtube.com/live/g3FoQMM1yus?feature=share&t=10" 
+      slides: "https://drive.google.com/file/d/18I50OWzhrOdn9APKCpLkev3U-RBVg-T6/view?usp=share_link"
+      readings:
+      due: <span style="color:purple">Project poster final version due</span>
+
+
+
+- week: 16
+  days:
+    - date: 4/24
+      format: 
+      theme: 
+      topics: <b><span style="color:purple">Poster presentations</span></b>   
+      notes:    
+      recording:       
+      slides: 
+      readings: ""
+      due: 
+    - date: 4/26
+      format: 
+      theme:  
+      topics: No class (reading day)
+      slides: 
+      readings: ""
+      due: <span style="color:orange">HW Graphs due</span>
+
+- week: 17
+  days:
+    - date: 5/1
+      format: 
+      theme: 
+      topics: No class (exam week)              
+      slides: 
+      readings: ""
+      due:  
+    - date: 5/3
+      format: 
+      theme:  
+      topics: <b><span style="color:black">FINAL EXAM</span></b>
+      slides: 
+      readings: ""
+      due: 
