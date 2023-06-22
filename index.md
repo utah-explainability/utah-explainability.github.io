@@ -39,7 +39,8 @@ Through **<span style="color: black;">this website</span>** we will share only t
 
 
 ### Which modalities does this course cover?
-We will almost exclusively talk about **applications in NLP (so text)** and in computer vision with **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)---high-dimensional vectors of floating point numbers whose individual dimensions are not interpretable. If you are interested in applications that fall under data science, you will instead likely work with "meaningful" features such as income of a person or zip code of a certain location. This course is not about such applications. We hope you find the course useful even if the data you work with is potentially represented differently from text or images. We believe it can be inspiring to think whether these methods can be applied to a different domain, and even realizing that they cannot can be helpful.
+We will almost exclusively talk about **applications in NLP (so text)** and in computer vision with **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)---high-dimensional vectors of floating point numbers whose individual dimensions are not interpretable. If you are interested in applications that fall under data science, you will instead likely work with "meaningful" features such as income of a person or zip code of a certain location. This course is not about such applications. We hope you find the course useful even if the data you work with is handled differently from text or images. We believe it can be inspiring to think whether these methods can be applied to a different domain, and realizing that they cannot, can be useful.
+
 
 ### Which machine learning models does this course cover?
 We focus on deep learning models (deep neural networks) and we will almost solely talk about [transformer](http://jalammar.github.io/illustrated-transformer/)-based models. 
@@ -63,7 +64,8 @@ This course doesn't have formal pre-requisites because these days one can learn 
 
 If you completed CS 5353/6353 (Deep Learning) or CS 5340/6340 (Natural Language Processing) or CS 5350/6350 (Machine Learning), I expect you will be able to keep up. 
 
-**<span style="color: black;">My advice.</span>** If you are interested in the course, give it a try. We will spend the first two weeks going over background and have a graded programming assigment relating to this. If you struggle with the background concepts and the first homework, you can withdraw---students may drop a course within the first two weeks of a given semester without any penalties. 
+**<span style="color: black;">My advice.</span>** If you are interested in the course, **give it a try**. We will spend the first two weeks going over the background and have a graded programming assignment relating to this. If you struggle with the background concepts and the first homework, you can withdraw---students may drop a course within the first two weeks of a given semester without any penalties. 
+
 
 **<span style="color: black;">Revisiting/polishing your knowledge.</span>** You can prepare by:
 
