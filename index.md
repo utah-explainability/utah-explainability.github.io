@@ -25,20 +25,12 @@ MoWe / 4:35PM-05:55PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB); in
 {% endfor %}
 {% endif %}
 
+
 Through **<span style="color: black;">this website</span>** we will share only the schedule and materials. Everything else---syllabus, announcements, discussion, turning in assignments/project components, communicating grades, policies---will be done through **<span style="color: black;">Canvas</span>**.
 
-Please use the Canvas discussion forum as the preferred medium for interacting with the instructor and the teaching assistants rather than emailing/messaging directly. Take advantage of the instructor hours. We will work hard to be accessible to students. Don't be shy if you don’t understand something: come to office hours, post in the forum, or speak up in class!
+**What modalities does this course cover?** We will almost exclusively talk about **applications in NLP** and computer vision for **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)--high-dimentsional vectors of floating point numbers whose individual dimensions are not interpretable. In other domains, typically in applications that fall under data science, you might work with "meaningful" features such as income or zip code. This course is not about such applications. 
 
-## Description
-
-Data mining is the study of efficiently finding structures and patterns in large data sets. We will focus on several aspects of this: (1) converting from a messy and noisy raw data set to a structured and abstract one, (2) applying scalable and probabilistic algorithms to these well-structured abstract data sets, and (3) formally modeling and understanding the error and other consequences of parts (1) and (2), including choice of data representation and trade-offs between accuracy and scalability. These steps are essential for training as a data scientist.
-
-Algorithms, programming, probability, and linear algebra are required tools for understanding these approaches.
-
-Topics will include: similarity search, clustering, regression/dimensionality reduction, graph analysis, PageRank, and small space summaries. We will also cover several recent developments, and the application of these topics to modern applications, often relating to large internet-based companies.
-
-Upon completion, students should be able to read, understand, and implement ideas from many data mining research papers.
-
+**What machine learning models this course covers?** We focus on deep learning models (deep neural networks) and we will almost solely focus on the [transformer](http://jalammar.github.io/illustrated-transformer/)-based models.  
 
 ## Calendar
 
