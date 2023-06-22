@@ -37,18 +37,21 @@ MoWe / 4:35PM-05:55PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB)
 
 Through **<span style="color: black;">this website</span>** we will share only the schedule and materials. Everything else---syllabus, announcements, discussion, turning in assignments/project components, communicating grades, policies---will be done through **<span style="color: black;">Canvas</span>**.
 
-**<span style="color: black;">What modalities does this course cover?</span>** We will almost exclusively talk about **applications in NLP** and computer vision for **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)---high-dimensional vectors of floating point numbers whose individual dimensions are not interpretable. If you are interested in applications that fall under data science, you will instead likely work with "meaningful" features such as income of a person or zip code of a certain location. This course is not about such applications. 
 
-**<span style="color: black;">What machine learning models this course covers?</span>** We focus on deep learning models (deep neural networks) and we will almost solely talk about [transformer](http://jalammar.github.io/illustrated-transformer/)-based models.  
+### What modalities does this course cover?
+
+**<span style="color: black;">What modalities does this course cover?</span>** We will almost exclusively talk about **applications in NLP** and in computer vision with **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)---high-dimensional vectors of floating point numbers whose individual dimensions are not interpretable. If you are interested in applications that fall under data science, you will instead likely work with "meaningful" features such as income of a person or zip code of a certain location. This course is not about such applications. 
+
+**<span style="color: black;">What machine learning models does this course cover?</span>** We focus on deep learning models (deep neural networks) and we will almost solely talk about [transformer](http://jalammar.github.io/illustrated-transformer/)-based models. 
 
 **<span style="color: black;">Local vs. global explanations.</span>** This course will **not** focus on [global methods](https://christophm.github.io/interpretable-ml-book/scope-of-interpretability.html) that analyze models'  behavior and internals such as [probing](https://nlp.stanford.edu/~johnhew/interpreting-probes.html). We focus on methods that answer questions such as: 
 
 * Which part of the input led to assigning this label?             
-* How to edit the input to change the answer to another?                           
+* How to edit the input to change the model's answer to something else?                           
 * In plain English, why is this input assigned this label?                   
 * Which training examples caused the prediction?   
 
-**<span style="color: black;">Pre-requisites.</span>** This course doesn’t have formal pre-requisites because these days one can learn about machine learning and adjacent topics in many different ways, but we expected that you...
+**<span style="color: black;">Pre-requisites.</span>** This course doesn't have formal pre-requisites because these days one can learn about machine learning and adjacent topics in many different ways, but we expected that you...
 
 * ...are experienced with programming in Python, 
 * ...are comfortable with basic calculus, probability, and linear algebra, 
@@ -62,7 +65,7 @@ We will spend the first two weeks going over background info and have a graded p
 
 If you'd like to revist and/or polish your knowledge, you can prepare by:
 
-1. There are a ton of Python resources for people with some programming experience. Check them out [here](https://wiki.python.org/moin/BeginnersGuide/Programmers). [This](https://www.learnpython.org/) is a good one.
+1. There are a ton of Python resources for people with some programming experience. Check them out [here](https://wiki.python.org/moin/BeginnersGuide/Programmers). Maybe [this one](https://www.learnpython.org/).
 
 2. Math and machine learning basics are nicely covered in the first part of the [Deep Learning book](https://www.deeplearningbook.org/). Obviously, you can use the same book to familiarize yourself with deep learning, especially with the contents of Chapter 6 and Chapter 8 that are a must for this course. 
 
