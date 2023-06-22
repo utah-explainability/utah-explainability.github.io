@@ -28,12 +28,17 @@ MoWe / 4:35PM-05:55PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB); in
 
 Through **<span style="color: black;">this website</span>** we will share only the schedule and materials. Everything else---syllabus, announcements, discussion, turning in assignments/project components, communicating grades, policies---will be done through **<span style="color: black;">Canvas</span>**.
 
-**What modalities does this course cover?** We will almost exclusively talk about **applications in NLP** and computer vision for **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)--high-dimentsional vectors of floating point numbers whose individual dimensions are not interpretable. In other domains, typically in applications that fall under data science, you might work with "meaningful" features such as income or zip code. This course is not about such applications. 
+**What modalities does this course cover?** We will almost exclusively talk about **applications in NLP** and computer vision for **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)--high-dimentsional vectors of floating point numbers whose individual dimensions are not interpretable. If you are interested in applications that fall under data science, you will likely work instead with "meaningful" features such as income or zip code. This course is not about such applications. 
 
 **What machine learning models this course covers?** We focus on deep learning models (deep neural networks) and we will almost solely focus on the [transformer](http://jalammar.github.io/illustrated-transformer/)-based models.  
 
+**Local vs. global explanations.** This course will **not** focus on global methods that analyze models' average behavior and internals such as probing. We focus on methods that answer questions such as: 
 
 
+* Which part of the input led to assigning this label?             
+* How to edit the input to change the answer to another?                           
+* In plain English, why is this input assigned this label?                   
+* Which training examples caused the prediction?                          
 
 ## Calendar
 
