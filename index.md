@@ -20,6 +20,15 @@ MoWe / 4:35PM-05:55PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB); in
 {{ staffer }}
 {% endfor %}
 
+{% assign lead_ta = site.staffers | where: 'role', 'Lead TA' %}
+{% for staffer in lead_ta %}
+{{ staffer }}
+{% endfor %}
+
+{% assign teaching_assistants = site.staffers | where: 'role', 'TA' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %}
+
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
