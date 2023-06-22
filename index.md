@@ -39,7 +39,7 @@ Through **<span style="color: black;">this website</span>** we will share only t
 
 
 ### Which modalities does this course cover?
-We will almost exclusively talk about **applications in NLP** and in computer vision with **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)---high-dimensional vectors of floating point numbers whose individual dimensions are not interpretable. If you are interested in applications that fall under data science, you will instead likely work with "meaningful" features such as income of a person or zip code of a certain location. This course is not about such applications. 
+We will almost exclusively talk about **applications in NLP** and in computer vision with **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)---high-dimensional vectors of floating point numbers whose individual dimensions are not interpretable. If you are interested in applications that fall under data science, you will instead likely work with "meaningful" features such as income of a person or zip code of a certain location. This course is not about such applications. We hope you find the course useful even if the data you work with is potentially represented differently from text or images. We believe it can be inspiring to think whether these methods can be applied to a different domain, and even realizing that they cannot can be helpful.
 
 ### Which machine learning models does this course cover?
 We focus on deep learning models (deep neural networks) and we will almost solely talk about [transformer](http://jalammar.github.io/illustrated-transformer/)-based models. 
@@ -76,7 +76,7 @@ If you completed CS 5353/6353 (Deep Learning) or CS 5340/6340 (Natural Language 
 4. [Practical Deep Learning for Coders by Fast.ai](https://course.fast.ai/) (3: Neural net foundations; 5: From-scratch model, 13: Backpropagation & MLP, 14: Backpropagation)
 
 
-**<span style="color: black;">What will you learn in this course?.</span>** 
+### What will you learn in this course? 
 
 
 
