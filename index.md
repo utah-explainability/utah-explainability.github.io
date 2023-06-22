@@ -64,7 +64,7 @@ This course doesn't have formal pre-requisites because these days one can learn 
 
 If you completed CS 5353/6353 (Deep Learning) or CS 5340/6340 (Natural Language Processing) or CS 5350/6350 (Machine Learning), I expect you will be able to keep up. 
 
-**<span style="color: black;">My advice.</span>** If you are interested in the course, **give it a try**. We will spend the first two weeks going over the background and have a graded programming assignment relating to this. If you struggle with the background concepts and the first homework, you can withdraw---students may drop a course within the first two weeks of a given semester without any penalties. 
+**<span style="color: black;">My advice.</span>** If you are interested in the course, **give it a try**. We will spend the first two weeks going over the background and have a graded programming assignment about it. If you struggle with the background concepts and the first homework, you can withdraw---students may drop a course within the first two weeks of a given semester without any penalties. 
 
 
 **<span style="color: black;">Revisiting/polishing your knowledge.</span>** You can prepare by:
