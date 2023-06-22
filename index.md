@@ -32,6 +32,9 @@ Through **<span style="color: black;">this website</span>** we will share only t
 
 **What machine learning models this course covers?** We focus on deep learning models (deep neural networks) and we will almost solely focus on the [transformer](http://jalammar.github.io/illustrated-transformer/)-based models.  
 
+
+
+
 ## Calendar
 
 The calendar and readings are **tentative** and **subject to change**.
