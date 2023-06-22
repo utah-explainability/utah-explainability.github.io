@@ -52,12 +52,12 @@ This course will **not** focus on [global methods](https://christophm.github.io/
 * In plain English, why is this input assigned this label?                   
 * Which training examples caused the prediction?   
 
-### Pre-requisites?
+### Formal pre-requisites?
 This course doesn't have formal pre-requisites because these days one can learn about machine learning and adjacent topics in many different ways, but we expected that you...
 
 * ...are experienced with programming in Python, 
 * ...are comfortable with basic calculus, probability, and linear algebra, 
-* ...mastered Machine Learning 101, 
+* ...have solid machine learning foundations, 
 * ...have some familiarity with [pytorch](https://pytorch.org/), 
 * ...are acquainted with Deep Learning 101. 
 
