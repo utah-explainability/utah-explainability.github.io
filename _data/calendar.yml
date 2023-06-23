@@ -15,78 +15,71 @@
       readings: 
 - week: 2
   days:
-    - date: 1/16
-      format: Break
-      theme:  
-      topics: <b><span style="color:green">Martin Luther King Jr. Day holiday</span></b> 
-      notes: 
+    - date: 8/28
+      format: Lecture (Ana)
+      theme:  <b>In plain English, why is this input assigned this label?</b>
+      topics: Prompting; Instruction-finetuning; Chain-of-Thoughts 
       recording:
       slides:
-      readings: ""
+      readings: 
       due:     
-    - date: 1/18
+    - date: 8/30
       format: Lecture (Ana)
-      theme: <b>Similarity</b>
-      topics: Jaccard + k-Grams
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L3-Jaccard+nGram.pdf
-      recording: "https://youtu.be/Um41Ew6dN80" 
-      slides: "https://drive.google.com/file/d/1wgi9s0NbGqMNf835SWqmyDKvQbPmW0IP/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 4.3-4.4</a>; <a href="http://www.mmds.org/">MMDS 3.1-3.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.3</a>
-      due: <span style="color:orange">HW Statistical Principles due</span>
+      theme: cont.
+      topics: Free-text explanations; Human evaluation
+      recording:  
+      slides:  
+      readings: 
+      due: <span style="color:orange">HW1 due</span>
 
 - week: 3
   days:
-    - date: 1/23
-      format: Lecture (Ana)
-      theme: cont.
-      topics: Min Hashing
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L4-Minhash.pdf
-      recording: "https://youtu.be/bRXE9SG0ai0" 
-      slides: "https://drive.google.com/file/d/11cL6SwOnPU9L0Q0-69WHqZoMQxx_2BTv/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 4.6.6</a>; <a href="http://www.mmds.org/">MMDS 3.3</a>
+    - date: 9/4
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Labor Day (no class)</span></b>  
+      recording:  
+      slides:  
+      readings: 
       due:
-    - date: 1/25
+    - date: 9/6
       format: Lecture (Ana)
-      theme: cont.
-      topics: LSH
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L5-LSH.pdf
-      recording: "https://youtu.be/S3pB0PA7R5I" 
-      slides: "https://drive.google.com/file/d/1wWdT3x1VDzIedfULTAzHjPrdVsNEn9GJ/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 4.6</a>; <a href="http://www.mmds.org/">MMDS 3.4</a>
-      due: <span style="color:purple">Project proposal due</span>
+      theme: <b>How certain is the model in its prediction?</b>
+      topics: Uncertainty quantification
+      recording:  
+      slides:  
+      readings: 
+      due: 
 
 - week: 4
   days:
-    - date: 1/30  
-      format: Lecture (Ana)
+    - date: 9/11 
+      format: Discussion
       theme: cont.
-      topics: Distances
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L6-Distances.pdf
-      recording: "https://www.youtube.com/live/a55NFU6b9-E?feature=share" 
-      slides: "https://drive.google.com/file/d/1A4JuWT0Rn6CBpg5009V_8faErz4Sm0An/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 4-4.3</a>; <a href="http://www.mmds.org/">MMDS 3.5 + 7.1</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 8.1</a>
-    - date: 2/1    
+      topics: Paper discussion
+      recording:  
+      slides:  
+      readings:
+    - date: 9/13    
       format: Lecture (Ana)
-      theme: cont.
-      topics: Embeddings
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L7-highD+ANN.pdf
-      recording: "https://www.youtube.com/live/41QAjd8irac?feature=share" 
-      slides: "https://drive.google.com/file/d/1w8pRyE5dtpX78hcYUJztHntCFNjruUHL/view?usp=sharing"
-      readings: <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">[Speech & Language Processing Sec 6]</a>; <a href="https://arxiv.org/abs/1607.06520">[Bolukbasi et al., 2016]</a>; see Piazza for more
-      due: <span style="color:orange">HW Document Hash due</span>
+      theme: 	<b>Which part of the input led to a prediction?</b>
+      topics: Attribution; Gradient-based post-hoc explanations
+      recording:  
+      slides:  
+      readings:
+      due: <span style="color:orange">HW2 due</span>
 
 - week: 5
   days:
-    - date: 2/6
-      format: Lecture (Ana)
-      theme: <b>Clustering</b>
-      topics: Hierarchical
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L8-hierarch.pdf
-      recording: "https://www.youtube.com/live/UICI8JK3kJQ?feature=share" 
-      slides: "https://drive.google.com/file/d/19S1Q_CHNlwzEY3H0nisduAmseTdXqMfJ/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 8.5 + 8.2</a>; <a href="http://www.mmds.org/">MMDS 7.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.7</a>
+    - date: 9/18
+      format: Discussion
+      theme: cont.
+      topics: Paper discussion
+      recording:  
+      slides:  
+      readings:
       due: 
-    - date: 2/8
+    - date: 9/20
       format: Lecture (Ana)
       theme: cont.
       topics: K-Means
