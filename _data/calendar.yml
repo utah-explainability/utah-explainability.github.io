@@ -81,76 +81,69 @@
       due: 
     - date: 9/20
       format: Lecture (Ana)
-      theme: cont.
-      topics: K-Means
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L9-kmeans.pdf
-      recording: "https://www.youtube.com/live/UTyOiYX5PTw?feature=share&t=27" 
-      slides: "https://drive.google.com/file/d/1n3nVmhdo-yR2SjUQkCcL2j6N7Zj8uQg_/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 8-8.3</a>; <a href="http://www.mmds.org/">MMDS 7.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.2-7.3</a>
-      due: <span style="color:orange">HW LSH due</span>
+      theme: <b>Which human-interpretable concept led to the prediction?</b>
+      topics: Pairwise interaction features; Attention-based; Hierarchical; Concept-based explanations
+      recording:  
+      slides:  
+      readings:
+      due: 
 - week: 6
   days:
-    - date: 2/13
-      format: Lecture (Ana)
+    - date: 9/25
+      format: Discussion
       theme: cont.
-      topics: Spectral
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L10-spectral.pdf
-      recording: "https://www.youtube.com/live/tGJtq3stb64?feature=share" 
-      slides: "https://drive.google.com/file/d/1zEMtMdnJl8fM5ix0-fBr57yQIwrLnMWi/view?usp=share_link"
-      readings: <a href="https://arxiv.org/abs/0711.0189">[von Luxburg, 2007]</a>; <a href="https://mathfordata.github.io/">M4D 10.3</a>; <a href="http://www.mmds.org/">MMDS 10.4</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.5</a>
+      topics: Paper discussion
+      recording:  
+      slides:  
+      readings:
       due: 
 
-    - date: 2/15
+    - date: 9/27
       format: Lecture (Ana)
-      theme: <b>Streaming</b>
-      topics: Model and Misra-Greis
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L11-Heavy-Hitters.pdf
-      recording: "https://www.youtube.com/live/tLxaMarcMHc?feature=share" 
-      slides: "https://drive.google.com/file/d/13wU-jg4bSofV7q-GngyA-1xq1fPlwfsY/view?usp=share_link"
-      readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://mathfordata.github.io/">M4D 11.1-11.2.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a> 
-      due: <span style="color:purple">Project data collection report due</span>
+      theme: <b>Which part of the input should be changed to change the prediction to a given label?</b>
+      topics: Contrastive explanations; Contrastive editing (+coding session)
+      recording:  
+      slides:  
+      readings:
+      due: <span style="color:orange">HW3 due</span>
 
 - week: 7
   days:
-    - date: 2/20
-      format: Break
-      theme: 
-      topics: <b><span style="color:green">Presidents Day holiday</span></b>  
-      notes: 
-      recording: 
-      slides: 
-      readings: ""
-      due: 
-    - date: 2/22
-      format: Lecture (Ana)
+    - date: 10/2
+      format: Discussion
       theme: cont.
-      topics: Count-Min Sketch
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L12-Count-Min+Apriori.pdf
-      recording: "https://www.youtube.com/live/AUCibAgLmHg?feature=share" 
-      slides: "https://drive.google.com/file/d/1lYEixkZRFjzoTtX_xvKA9U5xspjAflzB/view?usp=sharing"
-      readings: <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="https://web.stanford.edu/class/archive/cs/cs166/cs166.1206/lectures/10/Slides10.pdf">Stanford CS166 L10</a>
-      due: <span style="color:orange">HW Clustering due</span>
+      topics: Paper discussion
+      recording:  
+      slides:  
+      readings:
+      due: 
+    - date: 10/4
+      format: Lecture (Ana)
+      theme: <b>Which training examples caused the prediction?</b>
+      topics: Data influence; Influence functions (+coding session)
+      recording:  
+      slides:  
+      readings:
+      due: <span style="color:orange">HW4 (classwork) by Fri 11:59 PM</span>
 
 - week: 8
   days:
-    - date: 2/27
-      format: Lecture (Ana)
-      theme: cont.
-      topics: Count Sketch
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L12-Count-Min+Apriori.pdf
-      recording: "https://www.youtube.com/live/AYB3MGjaIeI?feature=share&t=27" 
-      slides: "https://drive.google.com/file/d/1by2hDPuX1T6o9TC0LvnLlcM57Us2tA5o/view?usp=sharing"
-      readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://aclanthology.org/D12-1100/">[Goyal et al., 2012]</a>; <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="https://web.stanford.edu/class/archive/cs/cs166/cs166.1206/lectures/11/Slides11.pdf">Stanford CS166 L11</a>; see Piazza for more
-      due:
-    - date: 3/1
-      format: Lecture (Ana)
+    - date: 10/9
+      format: Break
       theme: 
-      topics: <b><span style="color:black">MIDTERM EXAM</span></b>
-      notes:  
-      recording: 
-      slides: 
-      readings: ""
-      due: <span style="color:orange">HW Frequent due</span>
+      topics: <b><span style="color:green">Fall Break (no class)</span></b>  
+      recording:  
+      slides:  
+      readings:
+      due: 
+    - date: 10/11
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Fall Break (no class)</span></b>  
+      recording:  
+      slides:  
+      readings:
+      due: 
 
 - week: 9
   days:
@@ -158,7 +151,6 @@
       format: Break
       theme: 
       topics: <b><span style="color:green">Spring break</span></b>
-      notes: 
       recording: 
       slides: 
       readings: ""
@@ -167,7 +159,6 @@
       format: Break
       theme: 
       topics: <b><span style="color:green">Spring break</span></b>
-      notes: 
       recording:  
       slides: 
       readings: ""
@@ -175,15 +166,14 @@
 
 - week: 10
   days:
-    - date: 3/13
+    - date: 10/16
       format: Lecture (Ana)
-      theme: <b>Regression</b>
-      topics: Linear Regression
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L13-Regression.pdf
-      recording: "https://www.youtube.com/live/4FtLYQXqWfY?feature=share&t=73" 
-      slides: "https://drive.google.com/file/d/1E_fQ1ZHgq1d4LM8IZiMJoNheFLaPwhwB/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 5-5.2</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.2 + 3.4</a>
-      due:
+      theme: <b>Application-grounded, human-subject evaluations of explanations</b>
+      topics: Experimental design; Which tasks/datasets? 
+      recording:  
+      slides: 
+      readings: 
+      due: 
     - date: 3/15
       format: Lecture (Ana)
       theme: cont.
