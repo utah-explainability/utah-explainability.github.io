@@ -18,7 +18,7 @@
     - date: 8/28
       format: Lecture (Ana)
       theme:  <b>In plain English, why is this input assigned this label?</b>
-      topics: Prompting; Instruction-finetuning; Chain-of-Thoughts 
+      topics: Prompting; Chain-of-Thoughts; Instruction-finetuning
       recording:
       slides:
       readings: 
