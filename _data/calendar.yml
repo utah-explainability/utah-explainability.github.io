@@ -168,16 +168,16 @@
   days:
     - date: 10/23
       format: Lecture (Ana)
-      theme: 
-      topics: 
+      theme: cont. 
+      topics: Experimental design
       recording:  
       slides:  
       readings:
       due: 
     - date: 10/25
-      format: Lecture (Ana)
-      theme: 
-      topics: 
+      format: Demo
+      theme: cont.
+      topics: Setting up human evaluations (demo)
       recording:  
       slides:  
       readings:
@@ -185,130 +185,121 @@
 
 - week: 11
   days:
-    - date: 3/20
+    - date: 10/30
       format: Lecture (Ana)
-      theme: <b>Dim Reduce</b>
-      topics: SVD + PCA
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L14-SVD.pdf
-      recording: "https://www.youtube.com/live/S0UjnZlHDqA?feature=share&t=38" 
-      slides: "https://drive.google.com/file/d/1s5dd7vkuf4QczwhD7eaFer6NVwXHXH7X/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 7-7.3 + 7.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 3-3.6 + 3.8-3.9.2</a>
-      due: <span style="color:purple">Project intermediate report due</span>
-    - date: 3/22
-      format: Lecture (Ana)
+      theme: <b>Trust in AI	</b>
+      topics: Prerequisites, causes, and goals of human trust in AI [slides] [readings]	
+      recording:  
+      slides:  
+      readings:
+      due:
+    - date: 11/1
+      format: Discussion
       theme: cont.
-      topics: <span style="color:purple">Projects peer feedback</span>; Random Projection
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L17-Rand-Projections.pdf
-      recording: "https://www.youtube.com/live/WyDHUiJs4oU?feature=share" 
-      slides: "https://drive.google.com/file/d/15Mz0b1IVwa-plYR_fgAUfj9LfYxZybSd/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 7.10</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.7</a>
-      due: <span style="color:purple">Read 2 peer intermediate reports due</span>
+      topics: Paper discussion
+      recording:  
+      slides:  
+      readings:
+      due:
 
 - week: 12
   days:
-    - date: 3/27
-      format: Lecture (Ana)
+    - date: 11/6
+      format: Group exercise
       theme: cont.
-      topics: Frequent Directions
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L16-MatrixSketching.pdf
-      recording: "https://www.youtube.com/live/ckxLrHGT0ZM?feature=share&t=20" 
-      slides: "https://drive.google.com/file/d/1QFkDRJrGsermIGggG25ETnmpKnLCj0S5/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 11.3</a>; <a href="http://arxiv.org/abs/1501.01711">[Ghashami et al., 2015]</a>
-      due: 
-    - date: 3/29
+      topics: <span style="color:purple">Peer project feedaback</span>
+      recording:  
+      slides:  
+      readings:
+      due: <span style="color:purple">Bring intermediate report to the class</span>
+    - date: 11/8
       format: Lecture (Ana)
-      theme: cont.
-      topics: MDS, LDA, Metric Learning
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L15-MetricLearning.pdf
-      recording: "https://www.youtube.com/live/W5fRcbcOGms?feature=share" 
-      slides: "https://drive.google.com/file/d/1NXJ-STfvYj3e9us_rtACV1zyz-8uFTdG/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 7.6-7.8</a>; <a href="http://sebastianraschka.com/Articles/2014_python_lda.html">LDA</a>
-      due: <span style="color:orange">HW Regression due</span>
+      theme: <b>Explainability as a dialog</b>
+      topics: Principles, roadmap, risks, and research opportunities
+      recording:  
+      slides:  
+      readings:
+      due:  
 
 - week: 13
   days:
-    - date: 4/3
-      format: Lecture (Ana)
-      theme: <b>Noise</b>
-      topics: Privacy
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L21-Privacy.pdf
-      recording: 
-      slides:
-      readings: <a href="https://www.youtube.com/live/-gNP5vVuj3Y?feature=share&t=510">[prev year lecture]</a>; <a href="https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md">[blog]</a>
+    - date: 11/13
+      format: Discussion
+      theme: cont.
+      topics: Paper discussion
+      recording:  
+      slides:  
+      readings:
+      due:
+    - date: 11/15
+      format: Buffer
+      theme: 
+      topics: TBD
+      recording:  
+      slides:  
+      readings:
       due: 
-    - date: 4/5
-      format: Lecture (Ana)
-      theme:  cont.
-      topics: Metric learning (cont); Noise in Data
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L20-Noise.pdf
-      recording: "https://www.youtube.com/live/5tBMBy6Cwao?feature=share&t=42" 
-      slides: "https://drive.google.com/file/d/12Jc_a31asGEiwexqDM7IZb_x8g-8lMGq/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 8.6</a>; <a href="http://www.dbs.ifi.lmu.de/Publikationen/Papers/tutorial_slides.pdf">[tutorial]</a>
-      due: <span style="color:orange">HW Dim Reduce due</span>
 
 
 - week: 14
   days:
-    - date: 4/10  
-      format: Lecture (Ana)
-      theme:  <b>Graphs</b>
-      topics: Matrix completion; PageRank
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L23-PageRank.pdf
-      recording: "https://www.youtube.com/live/lyLjjyUeTTA?feature=share&t=25" 
-      slides: "https://drive.google.com/file/d/1tIbuItbblAQsr-rL4lQQGUgSj7oyQjKK/view?usp=sharing"
-      readings: <a href="https://mathfordata.github.io/">M4D 10.2</a>; <a href="http://www.mmds.org/">MMDS 5.1 + 5.4</a>
+    - date: 11/20
+      format: Group exercise
+      theme: 
+      topics: <span style="color:purple">Prepare a user study</span>
+      recording:  
+      slides:  
+      readings:
       due: 
-    - date: 4/12
-      format: Lecture (Ana)
-      theme: cont.
-      topics: PageRank 
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L23-PageRank.pdf
-      recording: "https://www.youtube.com/live/JkeUoHFgxzE?feature=share&t=35" 
-      slides: "https://drive.google.com/file/d/1GphiC6zzn4lst6ssYmAjQT-8BIbrH14Z/view?usp=share_link"
-      readings: <a href="http://www.mmds.org/">MMDS 5</a>
-      due: <span style="color:purple">Project final report due</span>
+
+    - date: 11/22
+      format: Group exercise
+      theme: 
+      topics: <span style="color:purple">Peer user studies</span>
+      recording:  
+      slides:  
+      readings:
+      due: 
 
 - week: 15
   days:
-    - date: 4/17
+    - date: 4/27
       format: Lecture (Ana)
-      theme:  cont.
-      topics: MapReduce 
-      notes: https://users.cs.utah.edu/~jeffp/DMBook/L24-MapReduce.pdf
-      recording:  "https://www.youtube.com/live/f4OcXbcHRag?feature=share&t=23"
-      slides: "https://drive.google.com/file/d/1AvLKbyYq4E_z9cnhDQpa4IP_44-WAe2E/view?usp=share_link"
-      readings: <a href="http://www.mmds.org/">MMDS 2</a>
-      due: <span style="color:purple">Project poster outline due</span>
-    - date: 4/19
-      format: Lecture (Ana)
-      theme:  <b>Wrap-up</b>
-      topics: Looking back & Semester course feedback
-      notes: 
-      recording: "https://www.youtube.com/live/g3FoQMM1yus?feature=share&t=10" 
-      slides: "https://drive.google.com/file/d/18I50OWzhrOdn9APKCpLkev3U-RBVg-T6/view?usp=share_link"
+      theme: 
+      topics: Looking back
+      recording:  
+      slides:  
       readings:
-      due: <span style="color:purple">Project poster final version due</span>
-
+      due:
+    - date: 4/29
+      format: Group exercise
+      theme: 
+      topics: <span style="color:purple">Finalizing posters</span>
+      recording:  
+      slides:  
+      readings:
+      due: 
 
 
 - week: 16
   days:
-    - date: 4/24
-      format: 
+    - date: 12/4
+      format: Exam
       theme: 
-      topics: <b><span style="color:purple">Poster presentations</span></b>   
-      notes:    
-      recording:       
-      slides: 
-      readings: ""
+      topics: Exam
+      recording:  
+      slides:  
+      readings:
       due: 
-    - date: 4/26
-      format: 
-      theme:  
-      topics: No class (reading day)
-      slides: 
-      readings: ""
-      due: <span style="color:orange">HW Graphs due</span>
+    - date: 12/6
+      format: Group exercise
+      theme: 
+      topics: <span style="color:purple">Poster presentations</span>
+      recording:  
+      slides:  
+      readings:
+      due: 
+
 
 - week: 17
   days:
