@@ -157,8 +157,8 @@
       due: 
     - date: 10/18
       format: Group exercise
-      theme: 
-      topics: <span style="color:purple">Group work (project framing)</span>
+      theme: <b>In-class group work</b>
+      topics: <span style="color:purple">Project framing</span>
       recording:  
       slides: 
       readings: 
@@ -206,12 +206,12 @@
   days:
     - date: 11/6
       format: Group exercise
-      theme: 
-      topics: <span style="color:purple">Peer project feedaback</span>
+      theme: <b>In-class group work</b>
+      topics: <span style="color:purple">Peer feedaback</span>
       recording:  
       slides:  
       readings:
-      due: <span style="color:purple">Bring intermediate report to the class</span>
+      due: <span style="color:purple">Bring intermediate report to the class; Submit a revised report by the end of the class</span>
     - date: 11/8
       format: Lecture (Ana)
       theme: <b>Explainability as a dialog</b>
@@ -233,7 +233,7 @@
       due:
     - date: 11/15
       format: Buffer
-      theme: 
+      theme: TBD
       topics: TBD
       recording:  
       slides:  
@@ -245,7 +245,7 @@
   days:
     - date: 11/20
       format: Group exercise
-      theme: 
+      theme: <b>In-class group work</b>
       topics: <span style="color:purple">Prepare a user study</span>
       recording:  
       slides:  
@@ -254,7 +254,7 @@
 
     - date: 11/22
       format: Group exercise
-      theme: 
+      theme: <b>In-class group work</b>
       topics: <span style="color:purple">Peer user studies</span>
       recording:  
       slides:  
@@ -265,7 +265,7 @@
   days:
     - date: 11/27
       format: Lecture (Ana)
-      theme: 
+      theme: <b>Looking back</b>
       topics: Looking back
       recording:  
       slides:  
@@ -273,7 +273,7 @@
       due:
     - date: 11/29
       format: Group exercise
-      theme: 
+      theme: <b>In-class group work</b>
       topics: <span style="color:purple">Finalizing posters</span>
       recording:  
       slides:  
@@ -285,7 +285,7 @@
   days:
     - date: 12/4
       format: Exam
-      theme: 
+      theme: <b>Exam</b>
       topics: Exam
       recording:  
       slides:  
@@ -293,7 +293,7 @@
       due: 
     - date: 12/6
       format: Group exercise
-      theme: 
+      theme:
       topics: <span style="color:purple">Poster presentations</span>
       recording:  
       slides:  
