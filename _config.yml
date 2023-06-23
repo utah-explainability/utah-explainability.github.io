@@ -47,8 +47,8 @@ collections:
   schedules:
   announcements:
   assignments:
-    #permalink: "/:collection/:path/"
-    #output: true
+    permalink: "/:collection/:path/"
+    output: true
 
 # Default layouts for each collection type
 defaults:
