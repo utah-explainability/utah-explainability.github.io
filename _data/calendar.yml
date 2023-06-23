@@ -9,7 +9,7 @@
     - date: 8/23
       format: Lecture (Ana)
       theme: <b>Background</b>
-      topics: Transformer; Self-Attention; BERT; GPT; T5; VisionTransformer; CLIP 
+      topics: Transformer; BERT; GPT; T5; VisionTransformer; CLIP 
       recording:  
       slides:  
       readings: 
