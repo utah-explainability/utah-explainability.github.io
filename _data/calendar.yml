@@ -150,20 +150,19 @@
     - date: 10/16
       format: Lecture (Ana)
       theme: <b>Application-grounded, human-subject evaluations of explanations</b>
-      topics: Experimental design; Which tasks/datasets? 
+      topics: Explanation evaluation so far (overview & problems)
       recording:  
       slides: 
       readings: 
       due: 
     - date: 10/18
-      format: Lecture (Ana)
-      theme: cont.
-      topics: Nonlinear Regression; Regularizarion 
-      notes: "https://drive.google.com/file/d/1cAjor55eMUdVxOCKhPtvxZGCAPbxnKvK/view?usp=share_link"
-      recording: "https://www.youtube.com/live/0bUKL1emx2E?feature=share&t=35" 
-      slides: "https://drive.google.com/file/d/1-lK5PcLLM2wls6rtepA5oT0LE1X05nND/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 5.3-5.5</a>; Extra <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp and Gilbert, 2007]</a>
-      due: 
+      format: Group exercise
+      theme: 
+      topics: <span style="color:purple">Group work (framing the project)</span>
+      recording:  
+      slides: 
+      readings: 
+      due: <span style="color:purple">Project proposal due</span>
 
 - week: 10
   days:
