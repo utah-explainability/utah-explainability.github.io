@@ -147,25 +147,6 @@
 
 - week: 9
   days:
-    - date: 3/6
-      format: Break
-      theme: 
-      topics: <b><span style="color:green">Spring break</span></b>
-      recording: 
-      slides: 
-      readings: ""
-      due:
-    - date: 3/8
-      format: Break
-      theme: 
-      topics: <b><span style="color:green">Spring break</span></b>
-      recording:  
-      slides: 
-      readings: ""
-      due: 
-
-- week: 10
-  days:
     - date: 10/16
       format: Lecture (Ana)
       theme: <b>Application-grounded, human-subject evaluations of explanations</b>
@@ -174,7 +155,7 @@
       slides: 
       readings: 
       due: 
-    - date: 3/15
+    - date: 10/18
       format: Lecture (Ana)
       theme: cont.
       topics: Nonlinear Regression; Regularizarion 
@@ -182,6 +163,25 @@
       recording: "https://www.youtube.com/live/0bUKL1emx2E?feature=share&t=35" 
       slides: "https://drive.google.com/file/d/1-lK5PcLLM2wls6rtepA5oT0LE1X05nND/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 5.3-5.5</a>; Extra <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp and Gilbert, 2007]</a>
+      due: 
+
+- week: 10
+  days:
+    - date: 10/23
+      format: Lecture (Ana)
+      theme: 
+      topics: 
+      recording:  
+      slides:  
+      readings:
+      due: 
+    - date: 10/25
+      format: Lecture (Ana)
+      theme: 
+      topics: 
+      recording:  
+      slides:  
+      readings:
       due: 
 
 - week: 11
