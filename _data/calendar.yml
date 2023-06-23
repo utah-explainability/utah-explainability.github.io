@@ -157,7 +157,7 @@
       due: 
     - date: 10/18
       format: Group exercise
-      theme: <b>In-class group work</b>
+      theme: <b><span style="color:purple">In-class group work</span></b>
       topics: <span style="color:purple">Project framing</span>
       recording:  
       slides: 
@@ -206,7 +206,7 @@
   days:
     - date: 11/6
       format: Group exercise
-      theme: <b>In-class group work</b>
+      theme: <b><span style="color:purple">In-class group work</span></b>
       topics: <span style="color:purple">Peer feedaback</span>
       recording:  
       slides:  
@@ -245,7 +245,7 @@
   days:
     - date: 11/20
       format: Group exercise
-      theme: <b>In-class group work</b>
+      theme: <b><span style="color:purple">In-class group work</span></b>
       topics: <span style="color:purple">Prepare a user study</span>
       recording:  
       slides:  
@@ -254,7 +254,7 @@
 
     - date: 11/22
       format: Group exercise
-      theme: <b>In-class group work</b>
+      theme: <b><span style="color:purple">In-class group work</span></b>
       topics: <span style="color:purple">Peer user studies</span>
       recording:  
       slides:  
@@ -273,7 +273,7 @@
       due:
     - date: 11/29
       format: Group exercise
-      theme: <b>In-class group work</b>
+      theme: <b><span style="color:purple">In-class group work</span></b>
       topics: <span style="color:purple">Finalizing posters</span>
       recording:  
       slides:  
