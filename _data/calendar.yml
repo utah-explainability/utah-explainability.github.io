@@ -1,19 +1,18 @@
 - week: 1
   days:
-    - date: 1/9
+    - date: 8/21
       format: Lecture (Ana)
       theme: 
-      topics: Class Overview
-      recording: https://www.youtube.com/live/Z6Xwd3VlrWY?feature=share&t=48 
-      slides: https://drive.google.com/file/d/1fhdcGRdxlg0zmcM9fklCMSVPWStUCdfz/view?usp=share_link
-    - date: 1/11
+      topics: Course Logistics
+      recording:  
+      slides:  
+    - date: 8/23
       format: Lecture (Ana)
-      theme: 
-      topics: Statistics Principles
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L2-StatisticalPrinciples.pdf
-      recording: "https://youtu.be/ul4QxYvMrdo"
-      slides: "https://drive.google.com/file/d/11DVP39BCgAvTMmxcA7Nd5ykmGcidMIeR/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 2.2-2.3</a>; <a href="http://www.mmds.org/">MMDS 1.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 12.4</a>
+      theme: <b>Background</b>
+      topics: Transformers; Self-Attention; Encoder- (BERT), decoder-only (GPT), encoder-decoder (T5); VisionTransformer / CLIP 
+      recording:  
+      slides:  
+      readings: 
 - week: 2
   days:
     - date: 1/16
