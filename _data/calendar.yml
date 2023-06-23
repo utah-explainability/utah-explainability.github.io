@@ -263,7 +263,7 @@
 
 - week: 15
   days:
-    - date: 4/27
+    - date: 11/27
       format: Lecture (Ana)
       theme: 
       topics: Looking back
@@ -271,7 +271,7 @@
       slides:  
       readings:
       due:
-    - date: 4/29
+    - date: 11/29
       format: Group exercise
       theme: 
       topics: <span style="color:purple">Finalizing posters</span>
