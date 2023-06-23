@@ -88,7 +88,7 @@ just_the_docs:
       name: Assignments
       # Exclude the collection from the navigation
       # Supports true or false (default)
-      nav_exclude: false
+      nav_exclude: true
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
