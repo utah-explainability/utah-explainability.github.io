@@ -111,7 +111,7 @@ If you completed CS 5353/6353 (Deep Learning) or CS 5340/6340 (Natural Language 
 
 **<span style="color: black;">Revisiting/polishing your knowledge.</span>** You can prepare by:
 
-1. There are a ton of Python resources for people with some programming experience. Check them out [here](https://wiki.python.org/moin/BeginnersGuide/Programmers). My colleagues suggest https://www.learnpython.org/ and https://diveintopython3.net/ .
+1. There are a ton of Python resources for people with some programming experience. Check them out [here](https://wiki.python.org/moin/BeginnersGuide/Programmers). My colleagues suggest these: [1](https://www.learnpython.org/), [2](https://diveintopython3.net/), [3](https://snakify.org/en/), and [4](https://runestone.academy/ns/books/published/thinkcspy/index.html?mode=browsing).
 
 2. Math and machine learning basics are nicely covered in the first part of the [Deep Learning book](https://www.deeplearningbook.org/). Obviously, you can use the same book to familiarize yourself with deep learning, especially with the contents of Chapter 6 and Chapter 8 that are a must for this course. 
 
