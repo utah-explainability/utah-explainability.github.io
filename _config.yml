@@ -32,13 +32,11 @@ permalink: pretty
 aux_links:
 footer_content:
 
-#quick_links:
-#  - name: Reading List
-#    url: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit?usp=sharing"
-#  - name: Google Drive
-#    url: "https://drive.google.com/drive/folders/13i2Sor2M7it72aGlMd87Iejw6fzqsBxI?usp=sharing"
-#  - name: Piazza
-#    url:  
+quick_links:
+  - name: Google Drive
+    url: "https://drive.google.com/drive/folders/13i2Sor2M7it72aGlMd87Iejw6fzqsBxI?usp=sharing"
+  - name: Piazza
+    url:  
 
 # Collections for website data
 collections:
@@ -88,7 +86,7 @@ just_the_docs:
       name: Assignments
       # Exclude the collection from the navigation
       # Supports true or false (default)
-      nav_exclude: true
+      nav_exclude: false
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
