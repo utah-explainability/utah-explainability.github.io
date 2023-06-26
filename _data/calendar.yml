@@ -30,7 +30,7 @@
       recording:  
       slides:  
       readings: 
-      due: <span style="color:orange">HW1 due</span>
+      due: <span style="color:orange">HW1 due by Friday 11:59 PM</span>
 
 - week: 3
   days:
@@ -211,7 +211,7 @@
       recording:  
       slides:  
       readings:
-      due: <span style="color:purple">Bring intermediate report to the class; Submit a revised report by the end of the class</span>
+      due: <span style="color:purple">Bring an intermediate report to the class; Submit a revised report by the end of the class</span>
     - date: 11/8
       format: Lecture (Ana)
       theme: <b>Explainability as a dialog</b>
