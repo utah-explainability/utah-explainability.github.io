@@ -90,9 +90,9 @@ The calendar and readings are **tentative** and **subject to change**.
 
 * Train a transformer-based model for an NLP or computer vision application, obtain its predictions, and apply common explainability methods (covered in lectures) to explain the predictions. Four homework assignments are designed to work on this. 
 
-* Define/utility function of an explanation for a given application. This course should teach you to ask: “What will best accomplish the explanatory functions [I hope to achieve in this case]?” (specific; application-based) instead of “Is this an appropriate explanation [in this case]?” (generic; very common in current ML research). A successful project proposal  (a component of the grade) has to define an appropriate function.
+* Define utility/function of an explanation for a given application. This course should teach you to ask: “What will best accomplish the explanatory functions [I hope to achieve in this case]?” (specific; application-based) instead of “Is this an appropriate explanation [in this case]?” (generic; very common in current ML research). A successful project proposal  (a component of the grade) has to define an appropriate function.
 
-* Identify and apply a method that creates appropriate explanations for a desired utility/function. A successful intermediate project status report should identify such a method and a successful project presentation should be based on its implementation. Both are components of the grade.
+* Identify and apply a method that creates appropriate explanations for a desired utility/function. A successful intermediate project status report should identify such a method.
 
 * Conduct a user study to evaluate produced explanations based on their utility.  The course has a dedicate session for preparing an interface for a user study and another session for conducting with class peers. A successful final project presentation will show how well explanations accomplish the explanatory function in your evaluation framework. 
 
