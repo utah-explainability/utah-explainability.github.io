@@ -41,7 +41,7 @@ Through this website we will share:
 * Info about [paper discussions]() and [projects]()
 * [Info that might be useful before enrolling](https://utah-explainability.github.io/#faq-before-enrolling)
 
-Syllabus, announcements, communicating grades, policies is shared on **<span style="color: black;">Canvas</span>**. Communication will be done through **<span style="color: black;">Piazza</span>**. You will turn in your assignments to **<span style="color: black;">Gradescope</span>**.
+Syllabus, announcements, communicating grades, policies, etc. are shared on **<span style="color: black;">Canvas</span>**. Communication will be done through **<span style="color: black;">Piazza</span>**. You will turn in your assignments to **<span style="color: black;">Gradescope</span>**.
 
 ## Calendar
 
