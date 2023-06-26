@@ -35,7 +35,12 @@ MoWe / 4:35-5:55 PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB)
 {% endif %}
 
 
-Through **<span style="color: black;">this website</span>** we will share only the schedule and materials (slides, videos). Everything else---syllabus, announcements, discussion, information about how to turn in assignments/project components, communicating grades, policies---will be done through **<span style="color: black;">Canvas</span>**.
+Through **<span style="color: black;">this website</span>** we will share:
+* schedule and materials (slides, videos)
+* information about paper discussions and projects
+*  
+
+Everything else---syllabus, announcements, discussion, information about how to turn in assignments/project components, communicating grades, policies---will be done through **<span style="color: black;">Canvas</span>**.
 
 ## Calendar
 

@@ -14,7 +14,7 @@ For each class, we'll assign two required readings to discuss in class: we’ll 
 
 **🌻** **Original** **Author [5-10 min].** You’re among the original authors of **Paper 1**. You’ll give a 5-10min short, high-quality presentation at a conference.
 
-**👩🏽‍🔬** **Scientific Peer Reviewer [3-5 min].** **Paper 1** has not been published yet and is currently under review at a top conference where you’ve been assigned as a peer reviewer. Complete a full review of this paper answering all prompts of the ACL [official review form](https://2023.aclweb.org/blog/review-form/). This includes recommending whether to accept or reject the paper.
+**👩🏽‍🔬** **Scientific Peer Reviewer [3-5 min].** **Paper 1** has not been published yet and is currently under review at a top conference where you’ve been assigned as a peer reviewer. Complete a full review of this paper answering all prompts of the ACL [official review form](https://2023.aclweb.org/blog/review-acl23/). This includes recommending whether to accept or reject the paper.
 
 Please do maintain a polite and considerate voice when sharing limitations about the work (as if the readers of the reviews might be yourself!) and even better if you can suggest constructive and concrete action items to improve the paper. 
 
