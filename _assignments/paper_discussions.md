@@ -52,5 +52,4 @@ For people who are **not** assigned as the official presenters, you will serve a
 
 - You are required to do **regular** role-play presentations **2 times** throughout the quarter, following the assignment spreadsheet which will be shared after the second week of class when the withdrawal deadline passes.
 - For the sessions when you are not presenting, you will either play a wildcard role OR write a written artifact.
-    - You'll have **2 free passes** throughout the quarter.
     - You're allowed to do the scribe role **up to 2 times**.
