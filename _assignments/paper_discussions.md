@@ -14,19 +14,19 @@ ___We follow the [CSE 599 @ UW](https://cse599d1wi23.notion.site/cse599d1wi23/CS
 
 For each class, we'll assign two required readings to discuss in class: we’ll go deep into **Paper 1** in the discussion so it requires careful reading, and you can skim **Paper 2** time-permitting. We'll assign **presenters** to play the following five **roles** in each class:
 
-**🌻** **Original** **Author [5-10 min].** You’re among the original authors of **Paper 1**. You’ll give a 5-10min short, high-quality presentation at a conference.
+> **🌻** **Original** **Author [5-10 min].** You’re among the original authors of **Paper 1**. You’ll give a 5-10min short, high-quality presentation at a conference.
 
-**👩🏽‍🔬** **Scientific Peer Reviewer [3-5 min].** **Paper 1** has not been published yet and is currently under review at a top conference where you’ve been assigned as a peer reviewer. Complete a full review of this paper answering all prompts of the ACL [official review form](https://2023.aclweb.org/blog/review-acl23/). This includes recommending whether to accept or reject the paper.
+> **👩🏽‍🔬** **Scientific Peer Reviewer [3-5 min].** **Paper 1** has not been published yet and is currently under review at a top conference where you’ve been assigned as a peer reviewer. Complete a full review of this paper answering all prompts of the ACL [official review form](https://2023.aclweb.org/blog/review-acl23/). This includes recommending whether to accept or reject the paper.
 
-_Please do maintain a polite and considerate voice when sharing limitations about the work (as if the readers of the reviews might be yourself!) and even better if you can suggest constructive and concrete action items to improve the paper._
+> _Please do maintain a polite and considerate voice when sharing limitations about the work (as if the readers of the reviews might be yourself!) and even better if you can suggest constructive and concrete action items to improve the paper._
 
-**🏺Archaeologist [3-5 min]. Paper 1** was found buried underground in the desert. You’re an archeologist who must determine where this paper sits in the context of previous and subsequent work. Find and report on one *older* paper cited within the current paper that substantially influenced the current paper and one *newer* paper that cites this current paper. Report how the older paper was influential and why a newer paper cites the current paper.
+> **🏺Archaeologist [3-5 min]. Paper 1** was found buried underground in the desert. You’re an archeologist who must determine where this paper sits in the context of previous and subsequent work. Find and report on one *older* paper cited within the current paper that substantially influenced the current paper and one *newer* paper that cites this current paper. Report how the older paper was influential and why a newer paper cites the current paper.
 
-**🍜** **Imaginative Researcher [3-5 min].** You’re a researcher who is working on a new project in the area of **Paper 1**. Propose an imaginary follow-up project *not just* based on the current but only possible due to the existence and success of the current paper.
+> **🍜** **Imaginative Researcher [3-5 min].** You’re a researcher who is working on a new project in the area of **Paper 1**. Propose an imaginary follow-up project *not just* based on the current but only possible due to the existence and success of the current paper.
 
-🦦 **Original Author of a Related Paper [5-10 min].** You’re among the original authors of a related **Paper 2**. You’ll give a 5-10 min short, high-quality presentation at a conference.
+> 🦦 **Original Author of a Related Paper [5-10 min].** You’re among the original authors of a related **Paper 2**. You’ll give a 5-10 min short, high-quality presentation at a conference.
 
-> Each role-playing presentation will be completed by either **an individual student** or **a team of two students**. We will use **a shared Google Slides** for all presenters to streamline the presentation. Each role-playing presentation will begin with a title page that states which role they are playing and the name(s) of the presenter(s). The presentation material can be borrowed from elsewhere so long as the original source is acknowledged.
+Each role-playing presentation will be completed by either **an individual student** or **a team of two students**. We will use **a shared Google Slides** for all presenters to streamline the presentation. Each role-playing presentation will begin with a title page that states which role they are playing and the name(s) of the presenter(s). The presentation material can be borrowed from elsewhere so long as the original source is acknowledged.
 
 For people who are **not** assigned as the official presenters, you will serve as the **discussion assistant** of the class by doing **one** of the following two tasks:
 
