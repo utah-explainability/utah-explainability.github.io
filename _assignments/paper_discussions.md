@@ -3,6 +3,8 @@ title: Paper Discussions
 include_nav_home: true
 ---
 
+---
+
 # Paper Discussions
 
 ___We follow the [CSE 599 @ UW](https://cse599d1wi23.notion.site/cse599d1wi23/CSE-599-D1-Winter-2023-fe73cb56c11b45efb34e94c090480791#948c133be7d845c6b8720e85279ecd60) version of Alec Jacobson's and Colin Raffel's [role-playing paper reading seminars](https://colinraffel.com/blog/role-playing-seminar.html). The text below is to a large extent copied from their website.___
