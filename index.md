@@ -40,7 +40,7 @@ Through **<span style="color: black;">this website</span>** we will share:
 * information about [paper discussions]() and [projects]()
 * [information that might be useful before enrolling](https://utah-explainability.github.io/#faq-before-enrolling)
 
-Everything else---syllabus, announcements, discussion, information about how to turn in assignments/project components, communicating grades, policies---will be done through **<span style="color: black;">Canvas</span>**.
+Everything else---syllabus, announcements, information about how to turn in assignments/project components, communicating grades, policies---will be done through **<span style="color: black;">Canvas</span>**. Communication will be done through **<span style="color: black;">Piazza</span>**.
 
 ## Calendar
 
