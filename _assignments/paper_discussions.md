@@ -18,7 +18,7 @@ For each class, we'll assign two required readings to discuss in class: we’ll 
 
 **👩🏽‍🔬** **Scientific Peer Reviewer [3-5 min].** **Paper 1** has not been published yet and is currently under review at a top conference where you’ve been assigned as a peer reviewer. Complete a full review of this paper answering all prompts of the ACL [official review form](https://2023.aclweb.org/blog/review-acl23/). This includes recommending whether to accept or reject the paper.
 
-Please do maintain a polite and considerate voice when sharing limitations about the work (as if the readers of the reviews might be yourself!) and even better if you can suggest constructive and concrete action items to improve the paper. 
+_Please do maintain a polite and considerate voice when sharing limitations about the work (as if the readers of the reviews might be yourself!) and even better if you can suggest constructive and concrete action items to improve the paper._
 
 **🏺Archaeologist [3-5 min]. Paper 1** was found buried underground in the desert. You’re an archeologist who must determine where this paper sits in the context of previous and subsequent work. Find and report on one *older* paper cited within the current paper that substantially influenced the current paper and one *newer* paper that cites this current paper. Report how the older paper was influential and why a newer paper cites the current paper.
 
