@@ -56,7 +56,7 @@
     - date: 9/11 
       format: Discussion
       theme: cont.
-      topics: Paper discussion
+      topics: In-class paper discussion
       recording:  
       slides:  
       readings:
@@ -74,7 +74,7 @@
     - date: 9/18
       format: Discussion
       theme: cont.
-      topics: Paper discussion
+      topics: In-class paper discussion
       recording:  
       slides:  
       readings:
@@ -92,7 +92,7 @@
     - date: 9/25
       format: Discussion
       theme: cont.
-      topics: Paper discussion
+      topics: In-class paper discussion
       recording:  
       slides:  
       readings:
@@ -112,7 +112,7 @@
     - date: 10/2
       format: Discussion
       theme: cont.
-      topics: Paper discussion
+      topics: In-class paper discussion
       recording:  
       slides:  
       readings:
@@ -196,7 +196,7 @@
     - date: 11/1
       format: Discussion
       theme: cont.
-      topics: Paper discussion
+      topics: In-class paper discussion
       recording:  
       slides:  
       readings:
@@ -226,7 +226,7 @@
     - date: 11/13
       format: Discussion
       theme: cont.
-      topics: Paper discussion
+      topics: In-class paper discussion
       recording:  
       slides:  
       readings:
@@ -259,7 +259,7 @@
       recording:  
       slides:  
       readings:
-      due: 
+      due: <span style="color:purple">Prepare a user study</span>
 
 - week: 15
   days:
