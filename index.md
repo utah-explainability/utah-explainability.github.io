@@ -37,9 +37,9 @@ MoWe / 4:35-5:55 PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB)
 ---
 
 Through this website we will share:
-* [schedule](https://utah-explainability.github.io/#calendar) and materials (slides, recordings)
-* information about [paper discussions]() and [projects]()
-* [information that might be useful before enrolling](https://utah-explainability.github.io/#faq-before-enrolling)
+* [Schedule](https://utah-explainability.github.io/#calendar) & lecture materials (slides, recordings)
+* Info about [paper discussions]() and [projects]()
+* [Info that might be useful before enrolling](https://utah-explainability.github.io/#faq-before-enrolling)
 
 Syllabus, announcements, communicating grades, policies is shared on **<span style="color: black;">Canvas</span>**. Communication will be done through **<span style="color: black;">Piazza</span>**. You will turn in your assignments to **<span style="color: black;">Gradescope</span>**.
 
