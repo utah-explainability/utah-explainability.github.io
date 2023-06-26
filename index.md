@@ -88,6 +88,19 @@ The calendar and readings are **tentative** and **subject to change**.
 
 ### What will you learn in this course? 
 
+* Train a transformer-based model for an NLP or computer vision application, obtain its predictions, and apply common explainability methods (covered in lectures) to explain the predictions. Four homework assignments are designed to work on this. 
+
+* Define/utility function of an explanation for a given application. This course should teach you to ask: “What will best accomplish the explanatory functions [I hope to achieve in this case]?” (specific; application-based) instead of “Is this an appropriate explanation [in this case]?” (generic; very common in current ML research). A successful project proposal  (a component of the grade) has to define an appropriate function.
+
+* Identify and apply a method that creates appropriate explanations for a desired utility/function. A successful intermediate project status report should identify such a method and a successful project presentation should be based on its implementation. Both are components of the grade.
+
+* Conduct a user study to evaluate produced explanations based on their utility.  The course has a dedicate session for preparing an interface for a user study and another session for conducting with class peers. A successful final project presentation will show how well explanations accomplish the explanatory function in your evaluation framework. 
+
+* Read cutting-edge research publications which requires being acquainted with the principles and concepts of explainable ML. There will be 6 class sessions devoted to paper discussions. This part of the course will be organized as a role-playing paper reading seminar with 5 regular roles: original author, scientific peer reviewer, archaeologist, imaginative researcher, and original author of a related paper. Those who are not assigned to be the official presenters will either play a wild card role (any role they’d like to be, such as an industry practitioner, a cranky researcher, etc.) or complete a written artifact (a study notes, a blog post, an opinion piece, a scribe of the class discussion). This format requires everyone to actually read the papers and engage in the discussion about them. The paper discussion is one of the main components of the grade. 
+
+* Follow an *ACL/EMNLP (leading NLP conferences) review style to properly review a research paper on explainable ML. One of the roles in the role-playing paper discussion is “scientific peer reviewer”. You will take that role once and your review will contribute to your paper discussion grade. 
+
+
 ### Which modalities does this course cover?
 We will almost exclusively talk about **applications in NLP (so text)** and in computer vision with **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)---high-dimensional vectors of floating point numbers whose individual dimensions are not interpretable. If you are interested in applications that fall under data science, you will instead likely work with "meaningful" features such as income of a person or zip code of a certain location. This course is not about such applications. We hope you find the course useful even if the data you work with is handled differently from text or images. We believe it can be inspiring to think whether these methods can be applied to a different domain, and realizing that they cannot, can be useful.
 
