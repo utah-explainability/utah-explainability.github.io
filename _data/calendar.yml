@@ -56,10 +56,11 @@
     - date: 9/11 
       format: Discussion
       theme: cont.
-      topics: In-class paper discussion
+      topics: <span style="color:blue">In-class paper discussion</span>
       recording:  
       slides:  
       readings:
+      due: <span style="color:blue">Presentation / write-up</span>
     - date: 9/13    
       format: Lecture (Ana)
       theme: 	<b>Which part of the input led to a prediction?</b>
@@ -74,11 +75,11 @@
     - date: 9/18
       format: Discussion
       theme: cont.
-      topics: In-class paper discussion
+      topics: <span style="color:blue">In-class paper discussion</span>
       recording:  
       slides:  
       readings:
-      due: 
+      due: <span style="color:blue">Presentation / write-up</span>
     - date: 9/20
       format: Lecture (Ana)
       theme: <b>Which human-interpretable concept led to the prediction?</b>
@@ -92,12 +93,11 @@
     - date: 9/25
       format: Discussion
       theme: cont.
-      topics: In-class paper discussion
+      topics: <span style="color:blue">In-class paper discussion</span>
       recording:  
       slides:  
       readings:
-      due: 
-
+      due: <span style="color:blue">Presentation / write-up</span>
     - date: 9/27
       format: Lecture (Ana)
       theme: <b>Which part of the input should be changed to change the prediction to a given label?</b>
@@ -112,11 +112,11 @@
     - date: 10/2
       format: Discussion
       theme: cont.
-      topics: In-class paper discussion
+      topics: <span style="color:blue">In-class paper discussion</span>
       recording:  
       slides:  
       readings:
-      due: 
+      due: <span style="color:blue">Presentation / write-up</span>
     - date: 10/4
       format: Lecture (Ana)
       theme: <b>Which training examples caused the prediction?</b>
@@ -196,11 +196,11 @@
     - date: 11/1
       format: Discussion
       theme: cont.
-      topics: In-class paper discussion
+      topics: <span style="color:blue">In-class paper discussion</span>
       recording:  
       slides:  
       readings:
-      due: <span style="color:purple">2-week project report by 11/2</span><
+      due: <span style="color:blue">Presentation / write-up</span>; <span style="color:purple">2-week project report by 11/2</span>
 
 - week: 12
   days:
@@ -226,11 +226,11 @@
     - date: 11/13
       format: Discussion
       theme: cont.
-      topics: In-class paper discussion
+      topics: <span style="color:blue">In-class paper discussion</span>
       recording:  
       slides:  
       readings:
-      due:
+      due: <span style="color:blue">Presentation / write-up</span>
     - date: 11/15
       format: Buffer
       theme: TBD
