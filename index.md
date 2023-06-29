@@ -86,6 +86,14 @@ The calendar and readings are **tentative** and **subject to change**.
 
 ## FAQ Before Enrolling
 
+{::options parse_block_html="true" /}
+<details><summary markdown="span"><b>Is attending the class in person mandatory? </b> [Click to expand!]</summary>              
+
+Six paper discussions, five in-class group activites, exam, and poster presentations must be attended in person. Given that this makes 13 class session in total, the instructor does not recommend enrolling in this class if you can't attend it in person.
+
+</details>                   
+<br/>
+
 ### What will you learn in this course? 
 
 * **Train a transformer-based model** for an NLP or computer vision application, **obtain its predictions**, and apply common explainability methods (covered in lectures) to **explain the predictions**. Four <u>homework assignments</u> are designed to work on this. 
