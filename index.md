@@ -39,9 +39,9 @@ MoWe / 4:35-5:55 PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB)
 Through this website we will share:
 * [Schedule](https://utah-explainability.github.io/#calendar) & lecture materials (slides, recordings)
 * Info about [paper discussions]() and [projects]()
-* [Info that might be useful before enrolling](https://utah-explainability.github.io/#faq-before-enrolling)
+* [FAQ before enrolling](https://utah-explainability.github.io/#faq-before-enrolling)
 
-Syllabus, announcements, communicating grades, policies, etc. are shared on **<span style="color: black;">Canvas</span>**. Communication will be done through **<span style="color: black;">Piazza</span>**. You will turn in your assignments to **<span style="color: black;">Gradescope</span>**.
+Syllabus, announcements, communicating grades, policies, etc. are shared on **Canvas**. Communication will be done through **Piazza**. You will turn in your assignments to **Gradescope**.
 
 ## Calendar
 
@@ -94,7 +94,7 @@ Six paper discussions, five in-class group activites, exam, and poster presentat
 </details>                   
 <br/>
 
-### What will you learn in this course? 
+<details><summary markdown="span"><b>What will you learn in this course? </b> [Click to expand!]</summary>
 
 * **Train a transformer-based model** for an NLP or computer vision application, **obtain its predictions**, and apply common explainability methods (covered in lectures) to **explain the predictions**. Four <u>homework assignments</u> are designed to work on this. 
 
@@ -108,23 +108,36 @@ Six paper discussions, five in-class group activites, exam, and poster presentat
 
 * Follow an *ACL/EMNLP (leading NLP conferences) review style to properly **review a research paper** on explainable ML. One of the roles in the role-playing paper discussion is “scientific peer reviewer”. You will <u>take that role once</u> and your review will contribute to your paper discussion grade. 
 
+</details>                   
+<br/>
 
-### Which modalities does this course cover?
+<details><summary markdown="span"><b>Which modalities does this course cover?</b> [Click to expand!]</summary>    
+
 We will almost exclusively talk about **applications in NLP (so text)** and in computer vision with **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)---high-dimensional vectors of floating point numbers whose individual dimensions are not interpretable. If you are interested in applications that fall under data science, you will instead likely work with "meaningful" features such as income of a person or zip code of a certain location. This course is not about such applications. We hope you find the course useful even if the data you work with is handled differently from text or images. We believe it can be inspiring to think whether these methods can be applied to a different domain, and realizing that they cannot, can be useful.
+</details>                   
+<br/>
 
+<details><summary markdown="span"><b>Which machine learning models does this course cover?</b> [Click to expand!]</summary>    
 
-### Which machine learning models does this course cover?
 We focus on deep learning models (deep neural networks) and we will almost solely talk about [transformer](http://jalammar.github.io/illustrated-transformer/)-based models. 
 
-### Local vs. global explanations?
+</details>                   
+<br/>
+
+<details><summary markdown="span"><b>Local vs. global explanations?</b> [Click to expand!]</summary>    
+
 This course will **not** focus on [global methods](https://christophm.github.io/interpretable-ml-book/scope-of-interpretability.html) that analyze models'  behavior and internals such as [probing](https://nlp.stanford.edu/~johnhew/interpreting-probes.html). We focus on methods that answer questions such as: 
 
 * Which part of the input led to assigning this label?             
 * How to edit the input to change the model's answer to something else?                           
 * In plain English, why is this input assigned this label?                   
-* Which training examples caused the prediction?   
+* Which training examples caused the prediction?  
 
-### Formal pre-requisites?
+</details>                   
+<br/>
+
+<details><summary markdown="span"><b>Formal pre-requisites? How to prepare?</b> [Click to expand!]</summary>    
+
 This course doesn't have formal pre-requisites because these days one can learn about machine learning and adjacent topics in many different ways, but we expected that you...
 
 * ...are experienced with programming in Python, 
@@ -134,6 +147,7 @@ This course doesn't have formal pre-requisites because these days one can learn 
 * ...are acquainted with Deep Learning 101. 
 
 If you completed CS 5353/6353 (Deep Learning) or CS 5340/6340 (Natural Language Processing) or CS 5350/6350 (Machine Learning), we expect you will be able to keep up. 
+
 
 **<span style="color: black;">My advice:</span>** If you are interested in the course, **give it a  try**. We will spend the first two weeks going over the background and have a graded programming assignment about it. If you struggle with the background concepts and the first homework, you can withdraw---students may drop a course within the first two weeks of a given semester without any penalties. 
 
@@ -149,3 +163,5 @@ If you completed CS 5353/6353 (Deep Learning) or CS 5340/6340 (Natural Language 
 4. [Practical Deep Learning for Coders by Fast.ai](https://course.fast.ai/) (3: Neural net foundations; 5: From-scratch model, 13: Backpropagation & MLP, 14: Backpropagation)
 
 
+</details>                   
+<br/>
