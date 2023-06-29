@@ -250,7 +250,7 @@
       recording:  
       slides:  
       readings:
-      due: <span style="color:purple">User study 1st version</span>
+      due: <span style="color:purple">User study v1</span>
 
     - date: 11/22
       format: Group exercise
@@ -270,7 +270,7 @@
       recording:  
       slides:  
       readings:
-      due: <span style="color:purple">Poster 1st version by 11/28</span>
+      due: <span style="color:purple">Poster v1 by 11/28</span>
     - date: 11/29
       format: Group exercise
       theme: <b><span style="color:purple">In-class group work</span></b>
