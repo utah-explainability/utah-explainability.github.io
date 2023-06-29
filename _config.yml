@@ -35,10 +35,12 @@ footer_content:
 quick_links:
   - name: Google Drive
     url: "https://drive.google.com/drive/folders/1IWfFsRGK__0bPMQQWkq4NqllljbDuBAF?usp=sharing"
-  - name: Piazza
-    url:  "https://piazza.com/utah/fall2023/cs6966001fall2023"
   - name: Canvas
     url: "https://utah.instructure.com/courses/895493"
+  - name: Piazza
+    url:  "https://piazza.com/utah/fall2023/cs6966001fall2023"
+  - name: Gradescope
+    url: "https://www.gradescope.com/courses/555550"
 
 # Collections for website data
 collections:
