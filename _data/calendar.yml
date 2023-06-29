@@ -30,7 +30,7 @@
       recording:  
       slides:  
       readings: 
-      due: <span style="color:orange">HW1 due by Friday 11:59 PM</span>
+      due: <span style="color:orange">HW1 (by 8/31)</span>
 
 - week: 3
   days:
@@ -67,7 +67,7 @@
       recording:  
       slides:  
       readings:
-      due: <span style="color:orange">HW2 due</span>
+      due: <span style="color:orange">HW2 due (by 9/14)</span>
 
 - week: 5
   days:
@@ -105,7 +105,7 @@
       recording:  
       slides:  
       readings:
-      due: <span style="color:orange">HW3 due</span>
+      due: <span style="color:orange">HW3 (by 9/28)</span>
 
 - week: 7
   days:
@@ -124,7 +124,7 @@
       recording:  
       slides:  
       readings:
-      due: <span style="color:orange">HW4 (classwork) by Fri 11:59 PM</span>
+      due: <span style="color:orange">HW4 (by 10/5)</span>
 
 - week: 8
   days:
@@ -162,7 +162,7 @@
       recording:  
       slides: 
       readings: 
-      due: <span style="color:purple">Project proposal due</span>
+      due: <span style="color:purple">Project proposal</span>
 
 - week: 10
   days:
@@ -200,7 +200,7 @@
       recording:  
       slides:  
       readings:
-      due:
+      due: <span style="color:purple">2-week project report by 11/2</span><
 
 - week: 12
   days:
@@ -211,7 +211,7 @@
       recording:  
       slides:  
       readings:
-      due: <span style="color:purple">Bring an intermediate report to the class; Submit a revised report by the end of the class</span>
+      due: <span style="color:purple">Report of changes</span>
     - date: 11/8
       format: Lecture (Ana)
       theme: <b>Explainability as a dialog</b>
@@ -250,7 +250,7 @@
       recording:  
       slides:  
       readings:
-      due: 
+      due: <span style="color:purple">User study 1st version</span>
 
     - date: 11/22
       format: Group exercise
@@ -259,7 +259,7 @@
       recording:  
       slides:  
       readings:
-      due: <span style="color:purple">Prepare a user study</span>
+      due: <span style="color:purple">User study with real values</span>
 
 - week: 15
   days:
@@ -270,7 +270,7 @@
       recording:  
       slides:  
       readings:
-      due:
+      due: <span style="color:purple">Poster 1st version by 11/28</span><
     - date: 11/29
       format: Group exercise
       theme: <b><span style="color:purple">In-class group work</span></b>
@@ -278,7 +278,7 @@
       recording:  
       slides:  
       readings:
-      due: 
+      due: <span style="color:purple">Poster final version</span><
 
 
 - week: 16
@@ -298,4 +298,4 @@
       recording:  
       slides:  
       readings:
-      due: 
+      due: <span style="color:purple">Poster questionnaire</span><

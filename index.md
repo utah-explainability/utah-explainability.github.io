@@ -36,7 +36,7 @@ MoWe / 4:35-5:55 PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB)
 
 ---
 
-Through this website we will share:
+Through this **website** we will share:
 * [Schedule](https://utah-explainability.github.io/#calendar) & lecture materials (slides, recordings)
 * Info about [paper discussions]() and [projects]()
 * [FAQ before enrolling](https://utah-explainability.github.io/#faq-before-enrolling)
@@ -45,7 +45,7 @@ Syllabus, announcements, communicating grades, policies, etc. are shared on **Ca
 
 ## Calendar
 
-The calendar and readings are **tentative** and **subject to change**.
+The calendar and readings are **tentative** and **subject to change**. 
 
 <table>
   <thead>
