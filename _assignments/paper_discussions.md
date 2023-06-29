@@ -48,9 +48,9 @@ For people who are **not** assigned as the official presenters, you will serve a
 > Each written artifact will be completed by either **an individual student** or **a team of two students**. It should be **at least one paragraph** in length within **one week of the class takes place**. The written artifact should not contain any plagiarism (e.g., a blog post elsewhere on the same paper/topic cannot be submitted as is or even after paraphrasing). Please keep in mind that all your written artifacts will be shared with the class.
 
 
-## How are you participating in each class throughout the quarter?
+## How are you participating in each class throughout the semester?
 
-- Graduate students are required to do **regular** role-play presentations **2 times** throughout the quarter, following the assignment spreadsheet which will be shared after the second week of class when the withdrawal deadline passes.
+- Graduate students are required to do **regular** role-play presentations **2 times** throughout the quarter, following the assignment spreadsheet which will be shared after the second week of class when the drop deadline passes.
     - Undergraduate students are allowed to do written reports for all papers, but they must choose in the first two weeks whether they will do that or also participate in  **regular** role-play presentations.
 - Graduate students, for the sessions when you are not presenting, you will either play a wildcard role OR write a written artifact.
     - You're allowed to do the scribe role **up to 2 times**.
