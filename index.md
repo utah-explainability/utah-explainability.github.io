@@ -89,7 +89,7 @@ The calendar and readings are **tentative** and **subject to change**.
 {::options parse_block_html="true" /}
 <details><summary markdown="span"><b>Is attending the class in person mandatory? </b> [Click to expand!]</summary>              
 
-Six paper discussions, five in-class group activites, exam, and poster presentations must be attended in person. Given that this makes 13 class session in total, the instructor does not recommend enrolling in this class if you can't attend it in person.
+Six paper discussions, five in-class group activites, exam, and poster presentations **must be attended in person**. Given that this makes 13 class session in total, the instructor does **not** recommend enrolling in this class if you can't attend it in person.
 
 </details>                   
 <br/>
@@ -107,6 +107,18 @@ Six paper discussions, five in-class group activites, exam, and poster presentat
 * **Read cutting-edge research publications** requiring being acquainted with the principles and concepts of explainable ML. There will be <u>six class sessions devoted to paper discussions</u>. This part of the course will be organized as a role-playing paper reading seminar with 5 regular roles: original author, scientific peer reviewer, archaeologist, imaginative researcher, and original author of a related paper. Those who are not assigned to be the official presenters will either play a wild card role (any role they’d like to be, such as an industry practitioner, a cranky researcher, etc.) or complete a written artifact (a study notes, a blog post, an opinion piece, a scribe of the class discussion). This format requires everyone to actually read the papers and engage in the discussion about them. The paper discussion is one of the main components of the grade. 
 
 * Follow an *ACL/EMNLP (leading NLP conferences) review style to properly **review a research paper** on explainable ML. One of the roles in the role-playing paper discussion is “scientific peer reviewer”. You will <u>take that role once</u> and your review will contribute to your paper discussion grade. 
+
+</details>                   
+<br/>
+
+<details><summary markdown="span"><b>What will you be evaluated?</b> [Click to expand!]</summary>
+
+Your performance in this course will be evaluated by:
+
+* [programming homework assignments](https://utah-explainability.github.io/assignments/homework/) (30%)
+* [in-class paper discussions](https://utah-explainability.github.io/assignments/paper_discussions/) (30%)
+* [project](https://utah-explainability.github.io/assignments/project/) (30%)
+* final exam (10%)
 
 </details>                   
 <br/>
