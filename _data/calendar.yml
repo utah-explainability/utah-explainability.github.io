@@ -17,16 +17,16 @@
   days:
     - date: 8/28
       format: Lecture (Ana)
-      theme:  <b>In plain English, why is this input assigned this label?</b>
-      topics: Prompting; Chain-of-Thoughts; Instruction-finetuning
+      theme:  <b>How certain is the model in its prediction?</b>
+      topics: Uncertainty quantification
       recording:
       slides:
       readings: 
       due:     
     - date: 8/30
       format: Lecture (Ana)
-      theme: cont.
-      topics: Free-text explanations; Human evaluation
+      theme: <b>In plain English, why is this input assigned this label?</b>
+      topics: Prompting; Instruction-finetuning; Chain-of-Thoughts
       recording:  
       slides:  
       readings: 
@@ -44,8 +44,8 @@
       due:
     - date: 9/6
       format: Lecture (Ana)
-      theme: <b>How certain is the model in its prediction?</b>
-      topics: Uncertainty quantification
+      theme: cont.
+      topics: Free-text explanations; Human evaluation
       recording:  
       slides:  
       readings: 
@@ -83,7 +83,7 @@
     - date: 9/20
       format: Lecture (Ana)
       theme: <b>Which human-interpretable concept led to the prediction?</b>
-      topics: Pairwise interaction features; Attention-based; Hierarchical; Concept-based explanations
+      topics: Pairwise interaction features (attention-based); Concept-based explanations
       recording:  
       slides:  
       readings:
@@ -100,8 +100,8 @@
       due: <span style="color:blue">Presentation / write-up</span>
     - date: 9/27
       format: Lecture (Ana)
-      theme: <b>Which part of the input should be changed to change the prediction to a given label?</b>
-      topics: Contrastive explanations; Contrastive editing (+coding session)
+      theme: <b>Which training examples caused the prediction?</b> 
+      topics: Data influence; Influence functions (+coding session)
       recording:  
       slides:  
       readings:
@@ -119,8 +119,8 @@
       due: <span style="color:blue">Presentation / write-up</span>
     - date: 10/4
       format: Lecture (Ana)
-      theme: <b>Which training examples caused the prediction?</b>
-      topics: Data influence; Influence functions (+coding session)
+      theme: <b>Which part of the input should be changed to change the prediction to a given label?</b>
+      topics: Contrastive explanations; Contrastive editing (+coding session)
       recording:  
       slides:  
       readings:
