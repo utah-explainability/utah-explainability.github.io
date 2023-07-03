@@ -9,10 +9,10 @@ We plan to have 4 programming homework assignments, covering the first part of t
 
 1. Assignment #1:
     * Model finetuning 
-    * Prompting 
-2. Assignment #2:
-    * Free-text explanations
     * Model uncertainty
+2. Assignment #2:
+    * Prompting
+    * Free-text explanations
 3. Assignment #3:
     * Gradient-based input attribution
     * Attention-based explanations
