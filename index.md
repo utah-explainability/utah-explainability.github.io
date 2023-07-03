@@ -111,7 +111,7 @@ Six paper discussions, five in-class group activites, exam, and poster presentat
 </details>                   
 <br/>
 
-<details><summary markdown="span"><b>What will you be evaluated?</b> [Click to expand!]</summary>
+<details><summary markdown="span"><b>How will you be evaluated?</b> [Click to expand!]</summary>
 
 Your performance in this course will be evaluated by:
 
