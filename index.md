@@ -36,6 +36,10 @@ MoWe / 4:35-5:55 PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB)
 
 ---
 
+Today it is not unusual to ask chatbots such as ChatGPT to answer something as well as explain the answer in plain English. In this course, we will review five types of methods for explaining individual predictions of deep learning models for NLP/computer vision tasks that preceded this remarkable achievement. We will then revisit evaluations of these methods and focus on how to develop and evaluate explainability methods that best accomplish a concrete, real-world utility. For more information read [FAQ](https://utah-explainability.github.io/#faq-before-enrolling). 
+
+
+
 Through this **website** we will share:
 * [Schedule](https://utah-explainability.github.io/#calendar) & lecture materials (slides, recordings)
 * Info about [paper discussions]() and [projects]()
