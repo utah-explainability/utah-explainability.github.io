@@ -178,5 +178,7 @@ If you completed CS 5353/6353 (Deep Learning) or CS 5340/6340 (Natural Language 
 
 4. [Practical Deep Learning for Coders by Fast.ai](https://course.fast.ai/) (3: Neural net foundations; 5: From-scratch model, 13: Backpropagation & MLP, 14: Backpropagation)
 
+5. [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners) is good to familiarize yourself a bit with NLP. During the semester we will use [huggingface](https://huggingface.co/course)
+
 </details>                   
 <br/>
