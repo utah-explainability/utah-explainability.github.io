@@ -14,10 +14,11 @@ ___We follow the [CSE 599 @ UW](https://cse599d1wi23.notion.site/cse599d1wi23/CS
 
 For each class, we'll assign two required [readings](https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit?usp=sharing) to discuss in class: we’ll go deep into **Paper 1** in the discussion so it requires careful reading, and you can skim **Paper 2** time-permitting. 
 
-Before any paper discussion sessions, we expect that you carefully read these two readings: 
+Before any paper discussion sessions, we expect that you carefully read these three readings: 
 
-1. [Reading AI Research Papers by Pranav Rajpurkar](https://docs.google.com/document/d/1bPhwNdCCKkm1_adD0rx1YV6r2JG98qYmTxutT5gdAdQ/edit?usp=sharing)              
-2. [Tips for Creating High-Quality Slides by Pranav Rajpurkar](https://docs.google.com/document/d/1-RYR_tOOwE6JZqKHiAh0FP8vF-HtzUij0VKPZa2Sp-E/edit?usp=sharing)          
+1. [Reading AI Research Papers by Pranav Rajpurkar](https://docs.google.com/document/d/1bPhwNdCCKkm1_adD0rx1YV6r2JG98qYmTxutT5gdAdQ/edit?usp=sharing)       
+2. [A Framework for Generating Research Ideas](https://docs.google.com/document/d/15pnUpD47S6mAM-g4fwQvc2klYIb-GKgWex1oOlmNjvg/edit?usp=sharing)                                        
+3. [Tips for Creating High-Quality Slides by Pranav Rajpurkar](https://docs.google.com/document/d/1-RYR_tOOwE6JZqKHiAh0FP8vF-HtzUij0VKPZa2Sp-E/edit?usp=sharing)          
 
 We'll assign **presenters** to play the following five **roles** in each class:
 
