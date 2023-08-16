@@ -33,7 +33,7 @@ This component consists of the two tasks: (1) submitting a 2-week report (12.5 p
 
 This component consists of two tasks: (1) Preparing a user study in class and submitting the first version (12.5 points) and (2) conducting a user study with class peers as annotators (12.5 points). 
 
-___Undergraduate students students are encourage to have a user study ready, but they are not required to.___
+___Undergraduate students students are encouraged to conduct a user study, but they are not required to.___
 
 **User study first version.** Each project group will prepare templates that will be uploaded to a crowdsourcing platform where their peers will provide annotations in the next class session. Each group will also need to write scripts for filling in variables in the template and for aggregating human judgments into a single score. The instructor will check templates and scripts of each group in the last portion of the class. **In-class attendance is mandatory.**
 
