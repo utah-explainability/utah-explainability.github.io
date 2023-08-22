@@ -58,7 +58,6 @@ The calendar and readings are **tentative** and **subject to change**.
     <th>Theme</th>
     <th>Topic</th>
     <th>Lecture Materials</th>
-    <th>Readings</th>
     <th>Work due</th>
   </tr>
   </thead>
@@ -80,7 +79,6 @@ The calendar and readings are **tentative** and **subject to change**.
             <a href="{{day.readings}}" class="cal-content-link">[references]</a>
           {% endif %}
         </td>
-        <td class="cal-content">{{day.readings}}</td>
         <td class="cal-content">{{day.due}}</td>
       </tr>
     {% endfor %}
