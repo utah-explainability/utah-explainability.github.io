@@ -10,9 +10,9 @@
       format: Lecture (Ana)
       theme: <b>Background</b>
       topics: Transformer; BERT; GPT; T5; VisionTransformer; CLIP 
-      recording:  
-      slides:  
-      readings: 
+      recording: "https://youtu.be/unXyBVk_KOo" 
+      slides:  "https://docs.google.com/presentation/d/1fXxLOHu7pPIMPZmYviUHIql4DITiNeVGgo_mL0ucMEk/edit?usp=sharing"
+      readings: "https://docs.google.com/presentation/d/1fXxLOHu7pPIMPZmYviUHIql4DITiNeVGgo_mL0ucMEk/edit?usp=sharing"
 - week: 2
   days:
     - date: 8/28
