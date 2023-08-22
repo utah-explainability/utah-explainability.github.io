@@ -77,7 +77,7 @@ The calendar and readings are **tentative** and **subject to change**.
             <a href="{{day.slides}}" class="cal-content-link">[slides]</a>
           {% endif %}
           {% if day.notes %}
-            <a href="{{day.notes}}" class="cal-content-link">[notes]</a>
+            <a href="{{day.readings}}" class="cal-content-link">[references]</a>
           {% endif %}
         </td>
         <td class="cal-content">{{day.readings}}</td>
