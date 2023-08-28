@@ -10,7 +10,7 @@
     - date: 8/23
       format: Lecture (Ana)
       theme: <b>Background</b>
-      topics: Transformer; BERT; GPT; T5; VisionTransformer; CLIP
+      topics: Transformer
       recording:  "https://youtu.be/dZzVA6VbAR8?feature=shared&t=24"
       slides: "https://docs.google.com/presentation/d/1uRd7WruSdOhqocVkRZUiHUO-rdVVmaotTOXg6itjhAU/edit?usp=sharing"  
       readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.ctd9kusjd088"
@@ -20,10 +20,10 @@
     - date: 8/28
       format: Lecture (Ana)
       theme:  <b>How certain is the model in its prediction?</b>
-      topics: Uncertainty quantification
+      topics: Pretrain-Finetune; Uncertainty quantification
       recording:
-      slides:
-      readings: 
+      slides: "https://docs.google.com/presentation/d/1WQv_0FLamqMvPvqDLg8u5iIHma54Ap7vK9qYOLhWCyg/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.sg90y6h3nok"
       due:     
     - date: 8/30
       format: Lecture (Ana)
