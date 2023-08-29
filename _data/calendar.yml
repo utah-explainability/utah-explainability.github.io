@@ -21,7 +21,7 @@
       format: Lecture (Ana)
       theme:  <b>How certain is the model in its prediction?</b>
       topics: Pretrain-Finetune; Uncertainty quantification
-      recording:
+      recording: "https://youtu.be/fHLSJE9SLIw"
       slides: "https://docs.google.com/presentation/d/1WQv_0FLamqMvPvqDLg8u5iIHma54Ap7vK9qYOLhWCyg/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.sg90y6h3nok"
       due:     
