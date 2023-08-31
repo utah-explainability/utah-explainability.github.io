@@ -29,7 +29,7 @@
       format: Lecture (Ana)
       theme: <b>In plain English, why is this input assigned this label?</b>
       topics: Prompting; Instruction-finetuning; Chain-of-Thoughts
-      recording:  
+      recording:  "https://youtu.be/sa3VbYHhb_o"
       slides:  "https://docs.google.com/presentation/d/1TXZjv2OhrHWKt8oRIAMfB5gUjj--s_vdNZq6LU-b8Hc/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.xi9gvcze2l1t"
       due: <span style="color:orange">HW1 (by 8/31)</span>
