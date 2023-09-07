@@ -48,9 +48,9 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Free-text explanations; Human evaluation
-      recording:  
+      recording: "https://youtu.be/deetpq313J4" 
       slides:  "https://docs.google.com/presentation/d/1GZPdcHdzLtZkeV_LIsCqMwiWPBi3ww6fnVKgoVUSYx4/edit?usp=sharing"
-      readings: 
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.8of5bzibyxlw"
       due: 
 
 - week: 4
@@ -60,8 +60,8 @@
       theme: cont.
       topics: <span style="color:blue">In-class paper discussion</span>
       recording:  
-      slides:  
-      readings:
+      slides: "https://docs.google.com/presentation/d/1qu5cgImN-3X4L5P8TfyT1cp2BLKmhKFyMSKUY40sSZo/edit?usp=sharing" 
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.kqhiy2o7wdem"
       due: <span style="color:blue">Presentation / write-up</span>
     - date: 9/13    
       format: Lecture (Ana)
