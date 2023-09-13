@@ -66,10 +66,10 @@
     - date: 9/13    
       format: Lecture (Ana)
       theme: 	<b>Which part of the input led to a prediction?</b>
-      topics: Attribution; Gradient-based post-hoc explanations
+      topics: Attribution; Gradient-based; Select-then-predict 
       recording:  
-      slides:  
-      readings:
+      slides:  "https://docs.google.com/presentation/d/11Te-GrAIBGaoa6JKcvjWs9bLR2HlKOZk-cYLPQMIFYQ/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.eboszg3rsx3z"
       due: <span style="color:orange">HW2 (by 9/14)</span>
 
 - week: 5
@@ -79,8 +79,8 @@
       theme: cont.
       topics: <span style="color:blue">In-class paper discussion</span>
       recording:  
-      slides:  
-      readings:
+      slides:  "https://docs.google.com/presentation/d/1Nb5EUZdcndraZ8YcVRBMDRXCAuO7k1pqqEL6nqDB9s4/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.a68klq4cpuk2"
       due: <span style="color:blue">Presentation / write-up</span>
     - date: 9/20
       format: Lecture (Ana)
