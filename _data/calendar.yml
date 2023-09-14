@@ -103,7 +103,7 @@
     - date: 9/27
       format: Lecture (Ana)
       theme: <b>Which training examples caused the prediction?</b> 
-      topics: Data influence; Influence functions (+coding session)
+      topics: Data influence; Influence functions
       recording:  
       slides:  
       readings:
@@ -122,7 +122,7 @@
     - date: 10/4
       format: Lecture (Ana)
       theme: <b>Which part of the input should be changed to change the prediction to a given label?</b>
-      topics: Contrastive explanations; Contrastive editing (+coding session)
+      topics: Contrastive explanations; Contrastive editing 
       recording:  
       slides:  
       readings:
