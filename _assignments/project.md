@@ -19,7 +19,7 @@ The project component has 8 tasks that are categorized into 4 components:
 
 ## Project proposal 
 
-Each group will meet in class on **Oct 18** and use the given guidelines (TBD) to frame their project. The instructor will go from group to group to check what is the current framing and give feedback. A portion of the class will be used to fill in a given document (TBD) which will be a proposal draft. The draft must be submitted to Gradescope by the end of the class (5:55 PM). You can earn max. **25 points** by attending the class, participating in the group activity, and submitting a proposal with your group. **In-class attendance is mandatory.**
+Each group will meet in class on **Oct 18** and use the [given guidelines](https://docs.google.com/document/d/10qKuAir6knqrvNVja9jsXvV6OzsMtUluQU3LOvgJTEs/edit#bookmark=id.f085ab9d4h9m) to frame their project. The instructor will go from group to group to check what is the current framing and give feedback. A portion of the class will be used to fill in a copy of the document above which will be a proposal draft. The draft must be submitted to Gradescope by the end of the class (5:55 PM). You can earn max. **25 points** by attending the class, participating in the group activity, and submitting a proposal with your group. **In-class attendance is mandatory.**
 
 ## Intermediate reports
 
