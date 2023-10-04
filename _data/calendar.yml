@@ -124,8 +124,8 @@
       theme: <b>Which part of the input should be changed to change the prediction to a given label?</b>
       topics: Contrastive explanations; Contrastive editing 
       recording:  
-      slides:  
-      readings:
+      slides:  "https://docs.google.com/presentation/d/1ZLhIc8jMBhSKwZ0GPHKBRvqXrIRCiWUNXfuOYC1cC8g/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.1b68zbixmzve"
       due: <span style="color:orange">HW4 (by 10/5)</span>
 
 - week: 8
