@@ -5,7 +5,10 @@ include_nav_home: true
 
 # Project
 
-Each person in the class will be responsible for a group project. The project must consist of 2 people – 1 person teams are **not** allowed. If you'd like to be a team of 3 please reach out with an explanation of why the work you want to do requires more than 2 people. On Oct 18, you will need to frame your project well and have a solid gameplan, because a month later, on Nov 22, you will need to have a user study setup that your peers will participate in, i.e., you will need to have a trained model, its predictions, explanations of its predictions, and an interface where your peers will evaluate the explanations. We plan to have 5 in-person class group activities on projects and in-person poster presentations. Attendance in person is mandatory. 
+Each person in the class will be responsible for a group project. The project must consist of 2 people – 1 person teams are **not** allowed. If you'd like to be a team of 3 please reach out with an explanation of why the work you want to do requires more than 2 people. Use [this form](https://forms.gle/XQQY6DRKZC32n3hZA) to inform me you made a team or note that you didn't, but tell what your interests are. On Oct 15, I'll pair everyone who has not formed a team yet. 
+
+
+ On Oct 18, you will need to frame your project well and have a solid gameplan, because a month later, on Nov 22, you will need to have a user study setup that your peers will participate in, i.e., you will need to have a trained model, its predictions, explanations of its predictions, and an interface where your peers will evaluate the explanations. We plan to have 5 in-person class group activities on projects and in-person poster presentations. Attendance in person is mandatory. 
 
 The project component has 8 tasks that are categorized into 4 components:
 
@@ -16,6 +19,7 @@ The project component has 8 tasks that are categorized into 4 components:
 * [User study (25 points)](https://utah-explainability.github.io/assignments/project/#user-study)
 
 * [Project poster (25 points)](https://utah-explainability.github.io/assignments/project/#user-study)
+
 
 ## Project proposal 
 
