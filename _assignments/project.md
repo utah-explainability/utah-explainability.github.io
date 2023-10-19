@@ -12,13 +12,13 @@ Each person in the class will be responsible for a group project. The project mu
 
 The project component has 8 tasks that are categorized into 4 components:
 
-* [Project proposal (25 points)](https://utah-explainability.github.io/assignments/project/#project-proposal)
+* [Project proposal](https://utah-explainability.github.io/assignments/project/#project-proposal)
 
-* [Intermediate reports (25 points)](https://utah-explainability.github.io/assignments/project/#intermediate-reports)
+* [Intermediate reports](https://utah-explainability.github.io/assignments/project/#intermediate-reports)
 
-* [User study (25 points)](https://utah-explainability.github.io/assignments/project/#user-study)
+* [User study](https://utah-explainability.github.io/assignments/project/#user-study)
 
-* [Project poster (25 points)](https://utah-explainability.github.io/assignments/project/#user-study)
+* [Project poster](https://utah-explainability.github.io/assignments/project/#user-study)
 
 
 ## Project proposal 
@@ -29,7 +29,7 @@ Each group will meet in class on **Oct 18** and use the [given guidelines](https
 
 This component consists of the two tasks: (1) submitting a 2-week report (12.5 points) and (2) peer feedback and submitting a report of changes (12.5 points). 
 
-**Two-week report.** This refers to two weeks after submitting the proposal. Each group will submit to Gradescope their two-week report following a given document (TBD). Your two-week reports will be read by some of your peers during the next in-class group session when they will provide you feedback.
+**Two-week report.** This refers to two weeks after submitting the proposal. Each group will submit to Gradescope their two-week report following a given document (https://docs.google.com/document/d/10qKuAir6knqrvNVja9jsXvV6OzsMtUluQU3LOvgJTEs/edit#bookmark=id.tzc3n4cg7ql2). Add the two-week report part to your proposal and submit the pdf to Gradescope. Your two-week reports will be read by some of your peers during the next in-class group session when they will provide you feedback.
 
 **Peer feedback & report of changes.** On Mon, Nov 6, will host a peer project review session. Here is what will be happening: Before the class, the instructor will send each group the corresponding two reports for peer review and discussion. The first part of the class will be used so that everyone reads assigned reports, i.e., you don't need to read them before the class. The next portion of the class will be used for discussion and providing feedback. The final portion of the class will be used for each project group to fill in a given document (TBD) where it will be documented what kind of feedback they received and what changes they plan to integrate (if any). This document must be submitted by the end of the class (5:55 PM) on Gradescope. **In-class attendance is mandatory.**
 
