@@ -174,15 +174,15 @@
       topics: Prerequisites, causes, & goals of human trust in AI
       recording:  
       slides:  "https://docs.google.com/presentation/d/1PH08EK0F2foR76_yKNBaVcCIyP6nzdjGsFv6lIJZmCU/edit?usp=sharing"
-      readings:
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.jergzzmvagtz"
       due: 
     - date: 10/25
       format: Demo
       theme: cont.
       topics:  Experimental design for human evaluations, use cases, and challenges (<b>asynchronous learning</b>) 
       recording:  
-      slides:  
-      readings:
+      slides:   
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.mc6m0378qazh"
       due: 
 
 - week: 11
