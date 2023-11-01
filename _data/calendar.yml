@@ -116,8 +116,8 @@
       theme: cont.
       topics: <span style="color:blue">In-class paper discussion</span>
       recording:  
-      slides:  
-      readings:
+      slides:  "https://docs.google.com/presentation/d/128x1Kp4ZYEQFqudWZHEAMDVyx_WnM5IkAlS2cpKTE_o/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.iahvkb4lr319"
       due: <span style="color:blue">Presentation / write-up</span>
     - date: 10/4
       format: Lecture (Ana)
@@ -190,8 +190,8 @@
     - date: 10/30
       format: Lecture (Ana)
       theme: cont. 
-      topics: Challenges in eliciting trust in AI 
-      recording:  
+      topics: Challenges in fostering (dis)trust in AI
+      recording: "https://youtu.be/M5rDeOMJOFo" 
       slides:  "https://docs.google.com/presentation/d/1iusUH7H6GwNPZv_s6spaSNO649dWDSTI--BYsLw181c/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.sjjwcqi16e8s"
       due:
@@ -200,7 +200,7 @@
       theme: cont.
       topics: <span style="color:blue">In-class paper discussion</span>
       recording:  
-      slides:  
+      slides:  "https://docs.google.com/presentation/d/1HQnxAmLqTUzOwgJxYYYlkQ8nRZAAHMSFa_OsTchIlRE/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.rnwe43q1elc4"
       due: <span style="color:blue">Presentation / write-up</span>; <span style="color:purple">2-week project report by 11/2</span>
 
@@ -229,9 +229,9 @@
       format: Discussion
       theme: cont.
       topics: <span style="color:blue">In-class paper discussion</span>
-      recording:  
-      slides:  
-      readings:
+      recording:   
+      slides: "https://docs.google.com/presentation/d/1NgTU4Lg3h_-1ckkHroig28JW2TZXtw69hqBUImADes4/edit?usp=sharing"  
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.d30azedpmvvw"
       due: <span style="color:blue">Presentation / write-up</span>
     - date: 11/15
       format: Buffer
