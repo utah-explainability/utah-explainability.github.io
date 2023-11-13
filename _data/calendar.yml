@@ -226,6 +226,14 @@
 - week: 13
   days:
     - date: 11/13
+      format: Group exercise
+      theme: 
+      topics: <span style="color:purple">Work on projects</span>
+      recording:   
+      slides:  
+      readings:
+      due:
+    - date: 11/15
       format: Discussion
       theme: cont.
       topics: <span style="color:blue">In-class paper discussion</span>
@@ -233,14 +241,6 @@
       slides: "https://docs.google.com/presentation/d/1NgTU4Lg3h_-1ckkHroig28JW2TZXtw69hqBUImADes4/edit?usp=sharing"  
       readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.d30azedpmvvw"
       due: <span style="color:blue">Presentation / write-up</span>
-    - date: 11/15
-      format: Buffer
-      theme: TBD
-      topics: TBD
-      recording:  
-      slides:  
-      readings:
-      due: 
 
 
 - week: 14
