@@ -230,7 +230,7 @@
       theme: <b><span style="color:purple">Asynchronous group work</span></b>
       topics: <span style="color:purple">Work on projects</span>
       recording:   
-      slides:  "https://docs.google.com/presentation/d/1Ml6XXU3eD7Mf6lvn2X8DdVnZnUNEy4Fb6k9lR_fejZw/edit?usp=sharing"
+      slides:  
       readings:
       due:
     - date: 11/15
@@ -250,8 +250,7 @@
       theme: <b><span style="color:purple">In-class group work</span></b>
       topics: <span style="color:purple">Prepare a user study</span>
       recording:  
-      slides:  
-      readings:
+https://docs.google.com/presentation/d/1Ml6XXU3eD7Mf6lvn2X8DdVnZnUNEy4Fb6k9lR_fejZw/edit?usp=sharing      readings:
       due: <span style="color:purple">User study v1</span>
 
     - date: 11/22
